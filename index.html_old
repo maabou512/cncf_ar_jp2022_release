@@ -446,7 +446,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								href="mailto:?subject=Read%20the%20CNCF%20Anunal%20Report%202022%20&#038;body=Read%20the%20CNCF%20Anunal%20Report%202022%20&nbsp;https%3A%2F%2Fwww.cncf.io%2Freports%2Fcncf-annual-report-2022%2F"><svg width="37" height="31" viewbox="0 0 37 31" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.332 2.098H31.99c1.833 0 3.332 1.5 3.332 3.332v19.993c0 1.833-1.5 3.332-3.332 3.332H5.332A3.342 3.342 0 0 1 2 25.423V5.43c0-1.833 1.5-3.332 3.332-3.332z" stroke="currentColor" stroke-width="3.332" stroke-linecap="round" stroke-linejoin="round"/><path d="M35.322 5.43l-16.66 11.662L2 5.43" stroke="currentColor" stroke-width="3.332" stroke-linecap="round" stroke-linejoin="round"/></svg></a></div>
 					</div>
 
-					<div class="hero__jump">各セクションへジャンプ：</div>
+					<div class="hero__jump">各セクションへジャンプ：:</div>
 				</div>
 			</div>
 		</section>
@@ -482,7 +482,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<p><strong>2022 年を振り返ってみると、私たちが共に乗り越え、達成できたことに深い誇りを感じます。私たちには直面し、取り組み続けている共通的な課題はありますが、一方でクラウドネイティブ エコシステムは躍進しつづけています。私たちは新しい産業やプロジェクトを歓迎し、コミュニティをデンマークの人口を超える 710 万人のクラウドネイティブ デベロッパーにまで拡大しました。</strong></p>
 
-					<p>クラウドネイティブはキャズムを越え、これまで以上に多くの組織がソフトウェア企業になりつつあります。このことは、KubeCon + CloudNativeCon イベントでも反映されていて、メルセデスベンツやボーイングといった顔ぶれが有名なテック ブランドたちとともに見出しを飾り、基調講演を行いました。</p>
+					<p>クラウド ネイティブはキャズムを越え、これまで以上に多くの組織がソフトウェア企業になりつつあります。このことは、KubeCon + CloudNativeCon イベントでも反映されていて、メルセデス ベンツやボーイングといった顔ぶれが有名なテック ブランドたちとともに見出しを飾り、基調講演を行いました。</p>
 
 					<p>もちろん、これは本当にグローバルで迎え入れてくれる、「Doer」たちののコミュニティである #TeamCloudNative なしでは不可能だったことでしょう。17 万 8,000 人を超えるコミットメントとコントリビューションに一個人としてみなさんに感謝します。それらのインパクトが大きくても小さくても、そこが問題ではなく私たちがこの旅路（Journey）を共に歩んでいる、ということに意味があります。</p>
 
@@ -509,7 +509,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<!-- Icon 3  -->
 					<div class="icon-box-1">
 						<div class="icon"><img loading="lazy" width="60" height="57" src="https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/annual-reports/2022/icon-chapter.svg" alt="Chapter icon"></div>
-						<div class="text"><span>178K のコントリビューターたち</span><br /> がコンピューティングに<br>根底から変化をもたらす</div>
+						<div class="text"><span>178K のコントリビューターたち</span><br /> コンピューティングに<br>根底から変化をもたらす</div>
 					</div>
 
 				</div>
@@ -585,7 +585,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<div class="quote-with-name-container">
 					<p
-						class="quote-with-name-container__quote">(KubeCon + CloudNativeCon) 「Hallway track」でされる会話の内容が、エンタープライズ領域の対応する方向へとシフトしてきています。このショーには Ford、Mass Mutual、ING や Home Depot といった企業を迎え入れました。私たちがよく知り、愛着もあるこれらの大企業のすべてがソフトウェア企業になるさまを、目の当たりにしています。</p>
+						class="quote-with-name-container__quote">(KubeCon + CloudNativeCon) 「Hallway track」でされる会話の内容が、エンタープライズ領域の対応する方向へとシフトしてきています。このショーには Ford、Mass Mutual、ING や Home Depot といった企業を迎え入れました。私たちのよく知り、愛着あるこれらの大企業のすべてがソフトウェア企業になるさまを、目の当たりにしています。</p>
 					<div class="quote-with-name-container__marks">
 						<p
 							class="quote-with-name-container__name">Lisa Martin</p>
@@ -680,7 +680,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 
 							<p
-								class="section-05__growth-key-text">CNCFのプロジェクト上で構築、もしくはCNCF プロジェクトをインテグレーションしたクラウドネイティブなテクノロジを販売している組織であれば、一般メンバー（General member）として参加する資格があります。</p>
+								class="section-05__growth-key-text">CNCFのプロジェクト上で構築、もしくはCNCF プロジェクトをインテグレーションしたクラウド ネイティブなテクノロジを販売している組織であれば、一般メンバー（General member）として参加する資格があります。</p>
 
 							<div class="wp-block-button"><a
 									href="https://cncf.io/about/join/" title="CNCF メンバーになる" class="wp-block-button__link">CNCF メンバーになる</a></div>
@@ -747,7 +747,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="quote-with-name-container">
 						<p
-							class="quote-with-name-container__quote">クラウドネイティブのエコシステムはどんどん大きく、良いものになってきています。オープンソースに対するエンドユーザーの信頼が、それを前進させているのです。</p>
+							class="quote-with-name-container__quote">クラウド ネイティブのエコシステムはどんどん大きく、良いものになってきています。オープンソースに対するエンドユーザーの信頼が、それを前進させています。</p>
 						<div class="quote-with-name-container__marks">
 							<p
 								class="quote-with-name-container__name">Aparna Subramanian</p>
@@ -770,7 +770,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<div class="lf-grid section-08__grid">
 				<div class="section-08__grid-col1">
-					<p>Cloud Native Computing Foundation （CNCF） のエンドユーザー企業とは、クラウドネイティブ テクノロジを社内で活用していて、クラウド ネイティブ サービスを外部向けに販売していないメンバー企業のことです。ベンダー、コンサルタント企業、トレーニング パートナー、またはテレコムキャリアといった企業はこれにあたりません。<br><br>エンドユーザー企業では、一人ひとりがクラウドネイティブ アーキテクチャを駆使し問題を解決すること、より包括的で繰り返し活用できるプロセスを生み出す、セルフサービス型のソリューションをチームに提供することに情熱を注いでいるのです。</p>
+					<p>Cloud Native Computing Foundation （CNCF） のエンドユーザー企業とは、クラウドネイティブ テクノロジを社内で活用していて、クラウド ネイティブ サービスを外部向けに販売していないメンバー企業のことです。ベンダー、コンサルタント企業、トレーニング パートナー、またはテレコムキャリアといった企業はこれにあたりません。<br><br>エンドユーザー企業では、一人ひとりがクラウド ネイティブ アーキテクチャを駆使し問題を解決すること、より包括的で繰り返し活用できるプロセスを生み出す、セルフサービス型のソリューションをチームに提供することに情熱を注いでいるのです。</p>
 				</div>
 				<div class="section-08__grid-col2">
 
@@ -799,7 +799,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<div class="quote-with-name-container">
 				<p
-					class="quote-with-name-container__quote">CNCF は、<strong>オープンソースの精神、自由と選択可能（Freedom and Choice）の精神</strong>を具現化し、同時に<strong>高品質なクラウドソフトウェア</strong>の同義語にもなりました。クラウドインフラストラクチャ用のソフトウェアを構築する必要に迫られるたびに <strong>私たちが最初に行うのは、「CNCF ランドスケープ（CNCF landscape）」にアクセス</strong>し、利用可能な選択肢を評価することです。</p>
+					class="quote-with-name-container__quote">CNCF は、<strong>オープンソースの精神、自由と選択可能（Freedom and Choice）の精神</strong>を具現化し、同時に<strong>高品質なクラウド ソフトウェア</strong>の同義語にもなりました。クラウド インフラストラクチャ用のソフトウェアを構築する必要に迫られるたびに <strong>私たちが最初に行うのは、「CNCF ランドスケープ（CNCF landscape）」にアクセス</strong>し、利用可能な選択肢を評価することです。</p>
 				<div class="quote-with-name-container__marks">
 					<p class="quote-with-name-container__name">Madhu CS</p>
 					<p class="quote-with-name-container__position">Robinhood</p>
@@ -819,13 +819,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<div class="lf-grid section-09__cto">
 					<div class="section-09__cto-col1">
-						<p>さまざまなチームがクラウドネイティブの戦略を採用するにつれてわかってくるのは、組織が直面する課題に対する「万能の」ソリューションというものはない、ということです。それが CNCF が 2022 年に CTO サミットを立ち上げた理由です。「チャタムハウスルール」で執り行われるこのサミットでは、エンドユーザー企業の CTO が招集され組織がクラウドネイティブ コンピューティングのレジリエンスを向上していく上で、人、プロセス、テクノロジーをどう活かせるのか、を議論します。</p>
+						<p>さまざまなチームがクラウド ネイティブの戦略を採用するにつれてわかってくるのは、組織が直面する課題に対する「万能の」ソリューションというものはない、ということです。それが CNCF が 2022 年に CTO サミットを立ち上げた理由です。「チャタム ハウスルール」で執り行われるこのサミットでは、エンドユーザー企業の CTO が招集され組織がクラウドネイティブ コンピューティングのレジリエンスを向上していく上で、人、プロセス、テクノロジーをどう活かせるのか、を議論します。</p>
 
 						<div aria-hidden="true" class="report-spacer-40"></div>
 
 						<div class="quote-with-name-container">
 							<p
-								class="quote-with-name-container__quote">私たちは、Boeing、Fidelity、Intuit などのエンドユーザーが一堂に会し、組織にある技術的な課題にどのように対処しているかについて非公開で対話できる CTO サミットをはじめました。しばしば、インパクトがある教訓というものは仲間たちから得られるものなのです。</p>
+								class="quote-with-name-container__quote">私たちは、Boeing、Fidelity、Intuit などのエンドユーザーが一堂に会し、組織にある技術的な課題にどのように対処しているかについて非公開で対話できる CTO サミットをはじめました。しばしば、インパクトがある教訓というものは仲間たちから得られるものです。</p>
 							<div class="quote-with-name-container__marks">
 								<p
 									class="quote-with-name-container__name">Priyanka Sharma</p>
@@ -865,7 +865,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<div class="lf-grid">
 				<div class="restrictive-9-col">
-					<p>5 月、デザイン新たに再構築された、<a href="https://www.cncf.io">CNCF.io</a> がローンチされました。新たなサイトでは、より効果的で活気に溢れインタラクティブにコミュニティを表現することにフォーカスしています。さらに共有エリアが追加され、 CNCF やエンドユーザー関連のコンテンツ、イベント、ニュース、ブログ記事を提供しています。また、ダイナミックなメガメニューと簡素化されたナビゲーションのおかげで、UX やナビゲーションが改良されました。重要なことは、私たちがアクセシビリティを強化している ― <a href="https://www.cncf.io/accessibility-statement/">Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1</a> に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。この1年を通し <a href="https://contribute.cncf.io">コントリビューターたち（Contributors）</a>を含む CNCF サブサイトに新デザインを展開し、全サイトに WCAG ガイドラインを適用しました。</p>
+					<p>5 月、デザイン新たに再構築された、<a href="https://www.cncf.io">CNCF.io</a> がローンチされました。新たなサイトでは、より効果的で活気に溢れインタラクティブにコミュニティを表現することにフォーカスしています。さらに共有エリアが追加され、 CNCF やエンドユーザー関連のコンテンツ、イベント、ニュース、ブログ記事を提供しています。また、ダイナミックなメガ メニューと簡素化されたナビゲーションのおかげで、UX やナビゲーションが改良されました。重要なことは、私たちがアクセシビリティを強化している ― <a href="https://www.cncf.io/accessibility-statement/">Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1</a> に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。この1年を通し <a href="https://contribute.cncf.io">コントリビューターたち（Contributors）</a>を含む CNCF サブサイトに新デザインを展開し、全サイトに WCAG ガイドラインを適用しました。</p>
 				</div>
 			</div>
 
@@ -877,20 +877,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<div class="shadow-hr"></div>
 
-			<p class="sub-header">クラウド ネイティブの「人間」たち（Humans of Cloud Native）</p>
+			<p class="sub-header">「クラウド ネイティブな」人たち（Humans of Cloud Native）</p>
 
 			<div aria-hidden="true" class="report-spacer-60"></div>
 
 			<div class="lf-grid">
 				<div class="restrictive-9-col">
-					<p>CNCF の中心には、クラウド ネイティブをユビキタスにするべく、 Doer たちが協働する、懐の広いコミュニティがあります。今年、私たちは<a href="https://www.cncf.io/humans-of-cloud-native/" title="クラウド ネイティブの「人間」たち（Humans of Cloud Native）を読む">ヒューマンズ オブ クラウドネイティブ （Humans of Cloud Native）</a> プロジェクトを立ち上げ、ここでチーム クラウド ネイティブを活気溢れ、刺激的で多様な空間にしてくれる素晴らしい人たちや、そのコントリビューションの物語を伝えています。</p>
+					<p>CNCF の中心には、クラウド ネイティブをユビキタスにするべく、 Doer たちが協働する、懐の広いコミュニティがあります。今年、私たちは<a href="https://www.cncf.io/humans-of-cloud-native/" title="「クラウド ネイティブな」人たち（Humans of Cloud Native）を読む">ヒューマンズ オブ クラウドネイティブ （Humans of Cloud Native）</a> プロジェクトを立ち上げ、ここでチーム クラウド ネイティブを活気溢れ、刺激的で多様な空間にしてくれる素晴らしい人たちや、そのコントリビューションの物語を伝えています。</p>
 				</div>
 			</div>
 
 			<div aria-hidden="true" class="report-spacer-60"></div>
 
 			<div class="banner"><img width="1381" height="918" loading="lazy" class="banner__image" src="https://www.cncf.io/wp-content/uploads/2022/12/humans-of-cloud-native.jpg" srcset="https://www.cncf.io/wp-content/uploads/2022/12/humans-of-cloud-native.jpg 1381w, https://www.cncf.io/wp-content/uploads/2022/12/humans-of-cloud-native-300x199.jpg 300w, https://www.cncf.io/wp-content/uploads/2022/12/humans-of-cloud-native-1024x681.jpg 1024w, https://www.cncf.io/wp-content/uploads/2022/12/humans-of-cloud-native-768x511.jpg 768w, https://www.cncf.io/wp-content/uploads/2022/12/humans-of-cloud-native-900x598.jpg 900w, https://www.cncf.io/wp-content/uploads/2022/12/humans-of-cloud-native-301x200.jpg 301w, https://www.cncf.io/wp-content/uploads/2022/12/humans-of-cloud-native-602x400.jpg 602w" sizes="(max-width: 800px) 100vw, 800px" alt="KubeCon + CloudNativeCon North America 2022 の参加者たち"><div class="banner__title-wrapper">
-					<h2 class="banner__title">「ヒューマンズ オブ クラウドネイティブ」の集まりに参加してみませんか</h2>
+					<h2 class="banner__title">「クラウドネイティブ」な人たちがいる集まりに参加しよう！</h2>
 				</div>
 				<div class="banner__text-wrapper">
 					<p class="banner__text">「クラウド ネイティブな」エコシステムでスゴいことやってる人、ご存じですか?<br><br><strong>Humans of Cloud Native にノミネートしましょう</strong></p>
@@ -907,13 +907,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="container wrap">
 
 				<div class="section-title-wrapper">
-					<h2 class="section-header">イベント</h2>
+					<h2 class="section-header">のイベント</h2>
 					<div class="section-number">2/6</div>
 				</div>
 
 				<div class="quote-with-name-container">
 					<p
-						class="quote-with-name-container__quote">KubeCon で提供されているものを見たら、2015 年 の始まりからの過去の KubeCon すべてを見逃してしまっていたことが残念でなりません。ベテランのクラウド ブロガーにとってこのカンファレンスは、分散型開発の未来が見られる、のぞき窓のような場なのです。</p>
+						class="quote-with-name-container__quote">KubeCon で提供されているものを見たら、2015 年 の始まりからの過去の KubeCon すべてを見逃してしまっていたことが残念でなりません。ベテランのクラウド ブロガーにとってこのカンファレンスは、分散型開発の未来が見れる、のぞき窓のような場なのです。</p>
 					<div class="quote-with-name-container__marks">
 						<p
 							class="quote-with-name-container__name">Ofir Nachmani</p>
@@ -953,7 +953,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-box-1">
 								<div class="icon"><img loading="lazy" width="57" height="63"
 										src="https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/annual-reports/2022/icon-lanyard-p.svg" alt="Lanyard icon"></div>
-								<div class="text"><span>16 のKCD</span><br /> を対面、バーチャル、およびハイブリッドで開催<div class="text-smaller">2021 年から <strong>33%</strong> の増加</div>
+								<div class="text"><span>16 のKCD</span><br /> を対面、バーチャル、およびハイブリッドで開催<div class="text-smaller">2021 年から <strong>33%</strong> 増加</div>
 								</div>
 							</div>
 							<div class="icon-box-1">
@@ -973,13 +973,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-box-1">
 								<div class="icon"><img loading="lazy" width="74" height="42"
 										src="https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/annual-reports/2022/icon-members-p.svg" alt="Members icon"></div>
-								<div class="text"><span>6,500 人以上の参加者</span><br />2021 年から <strong>85%</strong> の増加<div class="text-smaller"> </div>
+								<div class="text"><span>6,500 人以上の参加者</span><br />2021 年から <strong>85%</strong> 増加<div class="text-smaller"> </div>
 								</div>
 							</div>
 							<div class="icon-box-1">
 								<div class="icon"><img loading="lazy" width="71" height="74"
 										src="https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/annual-reports/2022/icon-globe-p.svg" alt="Globe icon"></div>
-								<div class="text"><span>14 カ国</span><br /> 世界中で開催<div class="text-smaller"></div>
+								<div class="text"><span>14 カ国</span><br /> 世界中で開催<div class="text-smaller"> </div>
 								</div>
 							</div>
 						</div>
@@ -998,7 +998,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<ul>
 							<li>KCD GitHub リポジトリの主催者（オーガナイザー）側の利用規約が更新され、オーガナイザーの既存の要件としての<a
-									href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/">インクルーシブ オープンソース コミュニティ オリエンテーション</a>の受講に加え、新たな条項が追加されました。新しい条項は次のとおりです。<ul style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;">
+									href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/">「インクルーシブ オープンソース コミュニティ オリエンテーション」</a>の受講に加え、新たな条項が追加されました。新しい条項は次のとおりです。<ul style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;">
 									<li>最終的なプログラムスケジュールが多様なものとなることについて同意すること（たとえば、すべてのスピーカーが 1 つの性別、単一の文化、または年齢層となっていないこと、など)</li>
 									<li>多様なラインナップが確保されるよう、プログラムの公開前に <a
 											href="mailto:kcd@cncf.io">kcd@cncf.io</a> に送信しレビューの実施と承認を得ること</li>
@@ -1050,7 +1050,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<div class="lf-grid">
 					<div class="restrictive-9-col">
-						<p>KubeCon + CloudNativeCon Valencia は、ヨーロッパで #TeamCloudNative を集めた3 年ぶりのイベントとなり、刺激的な雰囲気に満ちた場となりました。実際バレンシアでは、いままで経験したことのない初めてのことがたくさんありました。Boeing（ボーイング）社がプラチナメンバーとして参加しました。CNCF でははじめての航空宇宙業界からの参加です。また、通信業界では <a href="https://events.linuxfoundation.org/cloud-native-telco-day-europe/">Cloud Native Telco Day</a> を初めて開催し、業界を進化させている Deutsche Telekom や Orange などの大手が集まりました。加えて最初の <a href="https://www.cncf.io/reports/cto-summit-eu-2022/">CTO サミット</a>を主催し、組織がマルチクラウド戦略レジリエンスを達成できるアプローチについて議論されました。</p>
+						<p>KubeCon + CloudNativeCon Valencia は、ヨーロッパで #TeamCloudNative を集めた3 年ぶりのイベントとなり、刺激的な雰囲気に満ちた場となりました。実際バレンシアでは、いままで経験したことのない初めてのことがたくさんありました。Boeing（ボーイング）社がプラチナメンバーとして参加しました。CNCF でははじめての航空宇宙業界からの参加です。また、通信業界では<a href="https://events.linuxfoundation.org/cloud-native-telco-day-europe/">Cloud Native Telco Day</a> を初めて開催し、業界を進化させている Deutsche Telekom や Orange などの大手が集まりました。加えて最初の <a href="https://www.cncf.io/reports/cto-summit-eu-2022/">CTO サミット</a>を主催し、組織がマルチクラウド戦略レジリエンスを達成できるやり方について議論されました。</p>
 					</div>
 				</div>
 
@@ -1064,7 +1064,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<picture>
 					<source media="(max-width: 599px)" srcset="https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/annual-reports/2022/eu-attendees-mobile.svg">
-					<source media="(min-width: 600px)" srcset="https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/annual-reports/2022/eu-attendees-desktop.svg"><img width="1100" height="364" src="https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/annual-reports/2022/eu-attendees-desktop.svg" alt="登録済み参加者 18,550 人のうち 45.2% が男性、6.5% が女性、0.4% がノンバイナリー/その他、47.9% が無回答であったことを示しています。参加者のうち 7,084 人（38%）が対面参加、11,466 人 （62%） がオンライン参加でした。参加者の 65% が初参加でした。"
+					<source media="(min-width: 600px)" srcset="https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/annual-reports/2022/eu-attendees-desktop.svg"><img width="1100" height="364" src="https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/annual-reports/2022/eu-attendees-desktop.svg" alt="登録済み参加者18,550 人のうち 45.2% が男性、6.5% が女性、0.4% がノンバイナリー/その他、47.9% が無回答であったことを示しています。参加者のうち7,084 人（38%）が対面参加、11,466 人 （62%） がオンライン参加でした。参加者の 65% が初参加でした。"
 						loading="lazy"></picture>
 
 				<div aria-hidden="true" class="report-spacer-100"></div>
@@ -1686,7 +1686,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<div class="lf-grid">
 					<div class="restrictive-9-col">
-						<p>2022 年はテレコム 業界でCNCF のフットプリントが増加した年となりました。5 月に、<a href="https://www.cncf.io/certification/cnf/">クラウドネイティブ ネットワークファンクション認定プログラム（Cloud Native Network Function (CNF) Certification Program） のベータ版</a> が発表されました。これは、通信サービス プロバイダー （CSP） たちが彼らが使うベンダー製品がクラウドネイティブの原則にどの程度準拠しているかを検証し、クラウド ネイティブのベストプラクティスに沿った方でベンダーにアドバイスするのを支援するプログラムです。このプログラムは Vodafone、Deutsche Telekom、DISH Wireless などの CSP によってサポートされており、 <a href="https://github.com/cncf/cnf-wg">クラウドネイティブ ネットワークファンクション (CNF) ワーキンググループ</a>のベスト プラクティスによってガイドされ、<a href="https://github.com/cncf/cnf-testsuite">CNF テストスイート</a>上で認定テストも行います。</p>
+						<p>2022 年はテレコム 業界でCNCF のフットプリントが増加した年となりました。5 月に、<a href="https://www.cncf.io/certification/cnf/">クラウドネイティブ ネットワークファンクション認定プログラム（Cloud Native Network Function (CNF) Certification Program） のベータ版</a> が発表されました。これは、通信サービス プロバイダー （CSP） たちが彼らが使うベンダー製品がクラウドネイティブの原則にどの程度準拠しているかを検証し、クラウド ネイティブのベストプラクティスに沿った方でベンダーにアドバイスするのを支援するプログラムです。このプログラムは Vodafone、Deutsche Telekom、DISH Wireless などの CSP によってサポートされており、 <a href="https://github.com/cncf/cnf-wg">クラウドネイティブ ネットワークファンクション (CNF) ワーキンググループ</a>のベスト プラクティスによってガイドされ、<a href="https://github.com/cncf/cnf-testsuite">CNF テスト スイート</a>上で認定テストも行います。</p>
 					</div>
 				</div>
 
@@ -2196,7 +2196,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<div class="section-20__banner">
 					<p
-						class="section-20__banner-text">この用語集はコミュニティ主導の取り組みなので、新しい用語や既存の用語の更新を提案してくれたり、他言語への翻訳を手伝ってくれたりする方はどなたでも歓迎します。</p>
+						class="section-20__banner-text">この用語集はコミュニティ主導の取り組みですので、新しい用語や既存の用語の更新を提案してくれたり、他言語への翻訳を手伝ってくれたりする方はどなたでも歓迎します。</p>
 					<div class="wp-block-button"><a href="https://glossary.cncf.io/contribute/"
 							title="Glossary へコントリビュートする"
 							class="wp-block-button__link fit-content"
@@ -2211,14 +2211,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<div class="lf-grid">
 					<div class="restrictive-10-col">
-						<p>CNCF は、さまざまな<a href="https://github.com/cncf/mentoring">メンタリング、インターンシップの機会</a>を通じた支援をしています。手前味噌ではありますが、<a href="https://lfx.linuxfoundation.org/tools/mentorship">LFX メンターシップ プラットフォーム</a>、 <a href="https://developers.google.com/season-of-docs">Google Summer of Code (GSoC)</a>、<a href="https://summerofcode.withgoogle.com/">Google Summer of Docs (GSoD) プログラム</a>、<a href="https://www.outreachy.org/">Outreachy</a> など、さまざまなメンタリングやインターンシップの機会を通じて、2022 年には 100 人以上の個人に支援を提供することができました。これらのプログラムは、私たちが依存するであろう将来のテクノロジーに対しインターンシップに影響力を与える、重要な触媒なのです。<br><br>8 月、TAG Contributor Strategy は Mentoring Working Group を承認しました。 このワーキンググループの主な目標は、CNCF メンターシップ イニシアチブをコミュニティに管理してもらうこと、そうすることで、新たなメンターシップ プログラムの成長したり新たなプログラム開発に必要な能力を供給する支援をすることです。</p>
+						<p>CNCF は、さまざまな<a href="https://github.com/cncf/mentoring">メンタリング、インターンシップの機会</a>を通じた支援をしています。手前味噌ではありますが、<a href="https://lfx.linuxfoundation.org/tools/mentorship">LFX メンターシップ プラットフォーム</a>、 <a href="https://developers.google.com/season-of-docs">Google Summer of Code (GSoC)</a>、<a href="https://summerofcode.withgoogle.com/">Google Summer of Docs (GSoD) プログラム</a>、<a href="https://www.outreachy.org/">Outreachy</a> など、さまざまなメンタリングやインターンシップの機会を通じて、2022 年には 100 人以上の個人に支援を提供することができました。これらのプログラムは、私たちが依存するであろう将来のテクノロジーに対しインターンシップに影響力を与える、重要な触媒なのです。<br><br>8 月、TAG Contributor Strategy は Mentoring Working Group を承認しました。 このワーキング グループの主な目標は、CNCF メンターシップ イニシアチブをコミュニティに管理してもらうこと、そうすることで、新たなメンターシップ プログラムの成長したり新たなプログラム開発に必要な能力を供給する支援をすることです。</p>
 					</div>
 				</div>
 
 				<div aria-hidden="true" class="report-spacer-100"></div>
 
 				<p
-					class="sub-header">28 の CNCF プロジェクトに取り組めるよう 106 人の学生のスポンサーとなりました。</p>
+					class="sub-header">28 の CNCF プロジェクトに取り組めるよう106 人の学生のスポンサーとなりました。</p>
 
 				<div aria-hidden="true" class="report-spacer-60"></div>
 
@@ -2249,7 +2249,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<div class="lf-grid">
 					<div class="restrictive-9-col">
-						<p>内部では、<a href="https://www.cncf.io/people/staff/" title="CNCFスタッフについて見る">さまざまなバックグラウンド、ロケーションから 41 人を雇用しています</a>。61% が女性で 39% が男性です。Governing Board と Technical Oversight Committee で構成される CNCF のガバナンス リーダーシップについては女性 20%、男性 80%となっています。</p>
+						<p>内部では、<a href="https://www.cncf.io/people/staff/" title="CNCFスタッフについて見る">さまざまなバックグラウンド、ロケーションから41人を雇用しています</a>。61%が女性で39%が男性です。Governing Board と Technical Oversight Committee で構成されるCNCFのガバナンス リーダーシップについては女性20%、男性80%となっています。</p>
 					</div>
 				</div>
 
@@ -2283,7 +2283,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<div class="lf-grid">
 					<div class="restrictive-8-col">
-						<p>CNCFの収益は、メンバーシップ、イベントおよびスポンサーシップ、イベント登録、トレーニングの 4 つを主として資金調達をしています。</p>
+						<p>CNCFの収益は、メンバーシップ、イベントおよびスポンサーシップ、イベント登録、トレーニングの4つを主として資金調達をしています。</p>
 					</div>
 				</div>
 
