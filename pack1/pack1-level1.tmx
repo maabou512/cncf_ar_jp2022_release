@@ -1,0 +1,3291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>(English, Slavic, Chinese, Spanish, Italian, and Indonesian)</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T091127Z" creationid="tani" creationdate="20230116T091127Z">
+        <seg>(英語、スラブ語、中国語、スペイン語、イタリア語、 インドネシア語)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233113Z" creationid="tani" creationdate="20220124T101455Z">
+        <seg>1 人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1.0% for Operations</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234310Z" creationid="tani" creationdate="20230104T110330Z">
+        <seg>1.0% オペレーション </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1.2% for Legal</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234230Z" creationid="tani" creationdate="20230104T113254Z">
+        <seg>1.2% リーガル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1.9% for Training &amp; Certification</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234214Z" creationid="tani" creationdate="20230104T110324Z">
+        <seg>1.9%トレーニングと認定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>10.8% for Leadership &amp; Coordination</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234257Z" creationid="tani" creationdate="20230104T113256Z">
+        <seg>10.8％ リーダーシップとコーディネーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233103Z" creationid="tani" creationdate="20220124T101454Z">
+        <seg>16 人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>17.4% for Developer Collaboration &amp; IT</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234202Z" creationid="tani" creationdate="20230104T113250Z">
+        <seg>17.4% 開発者コラボレーションと IT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182250Z" creationid="tani" creationdate="20230104T222124Z">
+        <seg>2022 年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2022  Momentum</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T050345Z" creationid="tani" creationdate="20230116T050345Z">
+        <seg>2022 年 その勢い（Momentum）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2022 saw the cloud native community switch from the Meetup platform to Cloud Native Community Groups and the new platform has taken off.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182214Z" creationid="tani" creationdate="20230116T121137Z">
+        <seg>2022 年、クラウドネイティブコミュニティは Meetup のプラットフォームから Cloud Native Community Groups に移行し、新たなプラットフォームとして離陸しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>27.9% from event registration, 38% from event sponorship</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234106Z" creationid="tani" creationdate="20230104T110313Z">
+        <seg>27.9% イベント登録 38% イベント スポンサーシップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233057Z" creationid="tani" creationdate="20230115T233057Z">
+        <seg>3 人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4.8% for Reserve</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234411Z" creationid="tani" creationdate="20230104T113306Z">
+        <seg>4.8% リザーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5.8% for LG General &amp; Adminstrative</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234404Z" creationid="tani" creationdate="20230104T110333Z">
+        <seg>5.8% LF の一般管理費 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>50.5% for Events</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234144Z" creationid="tani" creationdate="20230104T113247Z">
+        <seg>50.5% イベント </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6.6% for Marketing, Comms and Busiess Development</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234131Z" creationid="tani" creationdate="20230104T110317Z">
+        <seg>6.6% マーケティング、コミュニケーション、ビジネス開発 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>64% of attendees were first timers.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T020200Z" creationid="tani" creationdate="20230104T105118Z">
+        <seg> 64% が初参加だったことを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>65% of visitors were first timers.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T014242Z" creationid="tani" creationdate="20230104T104943Z">
+        <seg>参加者の 65% が初参加でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7.1% from training, 26.9% from Membership</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234040Z" creationid="tani" creationdate="20230104T110310Z">
+        <seg>7.1% トレーニング  26.9% メンバーシップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7403 in person attendees.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T020142Z" creationid="tani" creationdate="20230104T105116Z">
+        <seg>7403 人が対面で参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>86</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233052Z" creationid="tani" creationdate="20220124T101453Z">
+        <seg>86 人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1,187 Submissions</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123116Z" creationid="tani" creationdate="20230116T112450Z">
+        <seg>1,187  件の提案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1,551 Submissions</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123217Z" creationid="tani" creationdate="20230116T113134Z">
+        <seg>1,551  件の提案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>100% would recommend CNCF to other companies ( 2022 End User survey )</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175432Z" creationid="tani" creationdate="20230116T054229Z">
+        <seg>100% が CNCF を他社にも勧めたい（ 2022 年エンドユーザー サーベイ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>113% Increase</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113938Z" creationid="tani" creationdate="20230116T113938Z">
+        <seg>113% の増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>132 Security Fixes and Improvements</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115516Z" creationid="tani" creationdate="20230116T115516Z">
+        <seg>132 のセキュリティFIXと改善</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>14 Countries Across the globe</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180359Z" creationid="tani" creationdate="20230116T111624Z">
+        <seg>14 カ国 世界中で開催</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>14% Increase</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114131Z" creationid="tani" creationdate="20230116T114131Z">
+        <seg>14% の増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>157 Projects Driving worldwide transformation</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T122919Z" creationid="tani" creationdate="20230116T050020Z">
+        <seg>157 のプロジェクト が世界中のトランスフォーメーションをドライブする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16 KCDs In-person, virtual and hybrid</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T091008Z" creationid="tani" creationdate="20230116T091008Z">
+        <seg>16 のKCD を対面、バーチャル、およびハイブリッドで開催</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>170 End User Members</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T054311Z" creationid="tani" creationdate="20230116T054311Z">
+        <seg>170 のエンドユーザー メンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>178K Contributors Fundamentally changing computing</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T050227Z" creationid="tani" creationdate="20230116T050227Z">
+        <seg>178K のコントリビューターたち コンピューティングに根底から変化をもたらす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>220+ new members 19 new members from China</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T053643Z" creationid="tani" creationdate="20230116T053643Z">
+        <seg>220 以上の新メンバー うち 19 は中国から</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>243 Speakers</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T122255Z" creationid="tani" creationdate="20230116T112530Z">
+        <seg>243  人のスピーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>25% Increase</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113817Z" creationid="tani" creationdate="20230116T113817Z">
+        <seg>25% の増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>280+ Registrations</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114059Z" creationid="tani" creationdate="20230116T114059Z">
+        <seg>280  件以上の登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2 Cloud Native Telco Days</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181543Z" creationid="tani" creationdate="20230116T120011Z">
+        <seg>2  つの Cloud Native Telco Days が開催</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>31,500+ Attendees</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121208Z" creationid="tani" creationdate="20230116T121208Z">
+        <seg>31,500 人以上の参加者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>335 Chapters</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121228Z" creationid="tani" creationdate="20230116T121228Z">
+        <seg>335 のチャプター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4,000 Registrations</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114018Z" creationid="tani" creationdate="20230116T114018Z">
+        <seg>4,000  件の登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>44% Increase</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113912Z" creationid="tani" creationdate="20230116T113912Z">
+        <seg>44% の増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>44% of Keynotes  at KubeCon + CloudNativeCon North America</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120844Z" creationid="tani" creationdate="20230116T120844Z">
+        <seg>44% のキーノート  KubeCon + CloudNativeCon North America</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>45 CVE's Reported and Fixed  Includes 5 critical and 10 high severity findings fixed </seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181353Z" creationid="tani" creationdate="20230116T115602Z">
+        <seg>45 の CVE の報告および修正  ここには5 件のクリティカル案件 10 件の深刻度の高い発見と修正が含まれる </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>48% of Keynotes  at KubeCon + CloudNativeCon Europe </seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182003Z" creationid="tani" creationdate="20230116T120753Z">
+        <seg>48% のキーノート  KubeCon + CloudNativeCon Europe </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>49% Increase</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113844Z" creationid="tani" creationdate="20230116T113844Z">
+        <seg>49% の増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4 CNF vendor organizations Earned "Certified CNF" status - for a total of 6 products</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181620Z" creationid="tani" creationdate="20230116T115952Z">
+        <seg>4 つの CNF ベンダー が、6 プロダクトに対し「CNF 認定」ステータスを獲得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>51 Security Tools Built</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115618Z" creationid="tani" creationdate="20230116T115618Z">
+        <seg>51 のセキュリティ ツールの構築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>531 Speakers</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T122422Z" creationid="tani" creationdate="20230116T113150Z">
+        <seg>531  人のスピーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>574 Events</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183919Z" creationid="tani" creationdate="20230116T183919Z">
+        <seg>574 のイベント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6,500+ attendees An increase of 85% from 2021</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T111543Z" creationid="tani" creationdate="20230116T111543Z">
+        <seg>6,500 人以上の参加者2021 年から 85% 増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>726 Need-Based Applicants  attended KubeCon + CloudNativeCons and CNCF hosted co-located events</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120955Z" creationid="tani" creationdate="20230116T120955Z">
+        <seg>726 人のニーズベース応募者たち  がKubeCon + CloudNativeCons および CNCF が主催する併催イベントに参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>749 Diversity Applicants from traditionally underrepresented and / or marginalized groups</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120929Z" creationid="tani" creationdate="20230116T120929Z">
+        <seg>749 人のダイバーシティ応募者たち 歴史的に少数派かつ/もしくは疎外されたグループから</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>8.5% Increase</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114152Z" creationid="tani" creationdate="20230116T114152Z">
+        <seg>8.5% の増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>853 Members Across 6 continents</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T174956Z" creationid="tani" creationdate="20230116T050127Z">
+        <seg>853 のメンバー は 6 大陸にまたがる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>853 member organizations 15% growth from 2021</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T053729Z" creationid="tani" creationdate="20230116T053729Z">
+        <seg>853 のメンバー組織2021 年から 15% の伸び</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ArgoAuthors 814</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114750Z" creationid="tani" creationdate="20230116T114750Z">
+        <seg>Argo814人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Backstage has seen one of the fastest growth trajectories this year - solving an important pain point around cloud native developer experience</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181320Z" creationid="tani" creationdate="20230116T115108Z">
+        <seg>Backstage  は今年最も急速な成長軌道を目の当たりにした 1 つで、クラウド ネイティブのデベロッパー エクスペリエンスに関する重要な問題点を解決しようとしている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BackstageAuthors 580</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114803Z" creationid="tani" creationdate="20230116T114803Z">
+        <seg>Backstage580人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Canada 291</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180909Z" creationid="tani" creationdate="20230116T113321Z">
+        <seg>カナダ 291</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Canada 457</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180937Z" creationid="tani" creationdate="20230116T113415Z">
+        <seg>カナダ 457</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Canada 748</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180904Z" creationid="tani" creationdate="20230116T113258Z">
+        <seg>カナダ 748</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Certified Kubernetes Administrator (CKA) exam hit 104,000 enrollments</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113903Z" creationid="tani" creationdate="20230116T113903Z">
+        <seg>Certified Kubernetes Administrator （CKA)）試験の登録数が 104,000 件に到達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Certified Kubernetes Application Developer (CKAD) hit 49,000 exam registrations</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113932Z" creationid="tani" creationdate="20230116T113932Z">
+        <seg>Certified Kubernetes Application Developer （CKAD）の試験登録数が 49,000 件に到達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Certified Kubernetes Security Specialist (CKS) exam hit 18,000 registrations</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113955Z" creationid="tani" creationdate="20230116T113955Z">
+        <seg>Certified Kubernetes Security Specialist （CKS）試験の登録数が 18,000 件に到達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coming January 2023KubeCon + CloudNativeCon North America CTO Summit Report</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T054616Z" creationid="tani" creationdate="20230116T054616Z">
+        <seg>2023 年 1 月公開KubeCon + CloudNativeCon North AmericaCTO サミット レポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conformance test was added across the three release: 1.24 - 16 endpoints tested 1.25 - 23 endpoints tested 1.26 - 10 endpoints tested</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120200Z" creationid="tani" creationdate="20230116T120200Z">
+        <seg>3 つのリリースにわたって適合性テストが追加されました。1.24 - 16 個のエンドポイントのテスト完了1.25 - 23 個のエンドポイントがテスト完了1.26 - 10 エンドポイントのテスト完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consistently looking into CNCF project's velocity and the top open source projects gives us a very good indication of trends that are resonating with developers and end users.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114711Z" creationid="tani" creationdate="20230116T114711Z">
+        <seg>CNCF プロジェクトの速度（Velocity）や、上位に位置するオープンソースプロジェクトを定期観測することで、開発者やエンドユーザーが共鳴しているトレンドをとてもよく知ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CoreDNSAuthors 69</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114821Z" creationid="tani" creationdate="20230116T114821Z">
+        <seg>CoreDNS69人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Denial of service, XSS, Path Traversal, Privilege Escalation, RCE Types of Vulnerabilities Fixed</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T122505Z" creationid="tani" creationdate="20230116T115648Z">
+        <seg>DoS、XSS、パストラバーサル、権限昇格、RCE といったタイプの脆弱性のFIX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EnvoyAuthors 399</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114829Z" creationid="tani" creationdate="20230116T114829Z">
+        <seg>Envoy399人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FluentdAuthors 275</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114838Z" creationid="tani" creationdate="20230116T114838Z">
+        <seg>Fluentd275人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FluxAuthors 258</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114844Z" creationid="tani" creationdate="20230116T114844Z">
+        <seg>Flux258人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Germany 1,060</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180746Z" creationid="tani" creationdate="20230116T112755Z">
+        <seg>ドイツ 1,060</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Germany 1,403</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180825Z" creationid="tani" creationdate="20230116T112941Z">
+        <seg>ドイツ 1,403</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Germany 2,463</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180735Z" creationid="tani" creationdate="20230116T112652Z">
+        <seg>ドイツ 2,463</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GitOps remains an important technique in the cloud native ecosystem, where projects like Argo and Flux continue to cultivate large communities</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180211Z" creationid="tani" creationdate="20230116T115144Z">
+        <seg>GitOps は、Argo や Flux  などのプロジェクトが大きなコミュニティを育て続けているような、クラウドネイティブ エコシステムにおいて重要なテクニックであり続けている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HarborAuthors 126</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114849Z" creationid="tani" creationdate="20230116T114849Z">
+        <seg>Harbor126人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HelmAuthors 160</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114854Z" creationid="tani" creationdate="20230116T114854Z">
+        <seg>Helm160人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>India 1,664</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180929Z" creationid="tani" creationdate="20230116T113406Z">
+        <seg>インド 1,664</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>India 1,702</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180758Z" creationid="tani" creationdate="20230116T112923Z">
+        <seg>インド 1,702</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>India 1,739</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180901Z" creationid="tani" creationdate="20230116T113234Z">
+        <seg>インド 1,739</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>India 1,798</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180738Z" creationid="tani" creationdate="20230116T112714Z">
+        <seg>インド 1,798</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inside Prometheus debuted in October 2022 at Prometheus Day North America as part of KubeCon + CloudNativeCon NA and has so far garnered 59,000 views on YouTube.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120559Z" creationid="tani" creationdate="20230116T120559Z">
+        <seg>「Inside Prometheus 」は、2022 年 10 月の Prometheus Day North America で KubeCon + CloudNativeCon NA の一部としてデビューし、これまで YouTube で 59,000 回の再生回数を獲得しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Israel 184</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180911Z" creationid="tani" creationdate="20230116T113346Z">
+        <seg>イスラエル 184</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JaegerAuthors 145</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114904Z" creationid="tani" creationdate="20230116T114904Z">
+        <seg>Jaeger145人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kubernetes Certified Service Provider (KCSP) program grew to 254 companies</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114207Z" creationid="tani" creationdate="20230116T114207Z">
+        <seg>Kubernetes Certified Service Provider （KCSP）プログラムが 254 社に拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kubernetes Massively Open Online Course (MOOC) hit 290,000 enrollments</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113834Z" creationid="tani" creationdate="20230116T113834Z">
+        <seg>Kubernetes Massively Open Online Course （MOOC） の登録数が 290,000 件を突破</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kubernetes Training Partner (KTP) program grew to 57 certified companies</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181050Z" creationid="tani" creationdate="20230116T114145Z">
+        <seg>Kubernetes トレーニング パートナー（KTP）プログラムは 57 の認定企業に拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kubernetes and Cloud Native Associate (KCNA) exam hit 4,000 registrations (since its launch in November 2021)</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182525Z" creationid="tani" creationdate="20230116T114035Z">
+        <seg>Kubernetes and Cloud Native Associate （KCNA）試験の登録数が 4,000 件に到達 （2021 年 11 月の開始以来）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>KubernetesAuthors 3619</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114911Z" creationid="tani" creationdate="20230116T114911Z">
+        <seg>Kubernetes3619人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LinkerdAuthors 122</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114917Z" creationid="tani" creationdate="20230116T114917Z">
+        <seg>Linkerd122人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OPAAuthors 259</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114924Z" creationid="tani" creationdate="20230116T114924Z">
+        <seg>OPA259人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenTelemetry has become the second highest velocity project in the CNCF ecosystem, increasing its contributor base</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115055Z" creationid="tani" creationdate="20230116T115055Z">
+        <seg>OpenTelemetry は、CNCF エコシステムで 2 番目に速度が高いプロジェクトになり、コントリビューター ベースを増やしている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenTelemetryAuthors 1133</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114931Z" creationid="tani" creationdate="20230116T114931Z">
+        <seg>OpenTelemetry1133人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presentations in multiple languages</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180351Z" creationid="tani" creationdate="20230116T091101Z">
+        <seg>プレゼンテーション が多言語で</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prometheus Certified Associate (PCA) exam hit 280+ registrations (since its launch on September 8, 2022)</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182258Z" creationid="tani" creationdate="20230116T114124Z">
+        <seg>Prometheus 認定アソシエイト （PCA）試験は 280 件以上の登録を記録 (2022 年 9 月 8 日の開始以来）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PrometheusAuthors 424</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114936Z" creationid="tani" creationdate="20230116T114936Z">
+        <seg>Prometheus424人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RookAuthors 99</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114944Z" creationid="tani" creationdate="20230116T114944Z">
+        <seg>Rook99人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SpiffeAuthors 44</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114950Z" creationid="tani" creationdate="20230116T114950Z">
+        <seg>Spiffe44人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SpireAuthors 54</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114957Z" creationid="tani" creationdate="20230116T114957Z">
+        <seg>Spire54人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TUFAuthors 51</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115010Z" creationid="tani" creationdate="20230116T115010Z">
+        <seg>TUF51人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TiKVAuthors 257</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115004Z" creationid="tani" creationdate="20230116T115004Z">
+        <seg>TiKV257人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>USA 1,309</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T184514Z" creationid="tani" creationdate="20230116T112742Z">
+        <seg>米国  1,309</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>USA 1,725</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180753Z" creationid="tani" creationdate="20230116T112902Z">
+        <seg>米国  1,309</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>USA 10,568</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180859Z" creationid="tani" creationdate="20230116T113222Z">
+        <seg>米国  10,568</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>USA 3.035</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180729Z" creationid="tani" creationdate="20230116T112617Z">
+        <seg>米国  3,035</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>USA 4,824</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180923Z" creationid="tani" creationdate="20230116T113357Z">
+        <seg>米国  4,824</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>USA 5,744</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180906Z" creationid="tani" creationdate="20230116T113311Z">
+        <seg>米国 5,744</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>United Kingdom 725</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180749Z" creationid="tani" creationdate="20230116T112838Z">
+        <seg>英国  725</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VitessAuthors 101</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115015Z" creationid="tani" creationdate="20230116T115015Z">
+        <seg>Vitess101人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We provide slides, as well as recording the session.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180637Z" creationid="tani" creationdate="20230116T111953Z">
+        <seg>ここで私たちはスライドの提供と併せセッションの録画を実施などで支援しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>containerdAuthors 255</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114814Z" creationid="tani" creationdate="20230116T114814Z">
+        <seg>containerd255人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>etcdAuthors 115</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114834Z" creationid="tani" creationdate="20230116T114834Z">
+        <seg>etcd115人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit the working group's repository to participate, view progress, and learn more.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T112116Z" creationid="tani" creationdate="20230116T112116Z">
+        <seg>ワーキング グループへの参加したり、進捗をチェックやその他詳細情報についてはリポジトリにアクセスしてみてください 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The automation for CNCF Kubernetes Conformance Certification repo has been updated for an enhanced user experience with improved functionality under the hood.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183642Z" creationid="tani" creationdate="20230116T120344Z">
+        <seg>CNCF Kubernetes Conformance Certification リポジトリの自動化がアップデートされ、内部の機能改善が進み、ユーザーエクスペリエンスが強化されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, CNCF funded fuzzing audits for a variety of projects that have resulted in hundreds of bugs being found.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115437Z" creationid="tani" creationdate="20230116T115437Z">
+        <seg>さらに、CNCF はさまざまなプロジェクトのファジング監査に資金を提供し、その結果、何百ものバグ発見につながりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A 15% increase of membership growth compared to 2021</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113442Z" creationid="tani" creationdate="20230104T104526Z">
+        <seg>2021 年と比較してメンバー数が 15% 増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A basic premise behind CNCF, our conferences (including KubeCon + CloudNativeCon), and open source, in general, is that interactions are positive-sum.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121703Z" creationid="tani" creationdate="20230116T121703Z">
+        <seg>CNCF、主催するカンファレンス（KubeCon + CloudNativeCon など）、そしてオープンソースの背後には基本的前提にあることは、インタラクションは総じて（「ゼロサム」ではなく）「ポジティブサム」なもの、ということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A number of projects completed security audits, resulting in 132 security fixes and improvements, 45 CVE's fixed, and 51 security tools built.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115343Z" creationid="tani" creationdate="20230116T115343Z">
+        <seg>多くのプロジェクトがセキュリティ監査を完了しました。この結果 132 件のセキュリティ修正や改善、45 件の CVE 修正、51 件のセキュリティ ツールの構築が行われました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accept</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T113655Z" creationid="tani" creationdate="20230111T113655Z">
+        <seg>承諾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, one culture, or age)</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T123748Z" creationid="tani" creationdate="20230104T104843Z">
+        <seg>最終的なプログラムスケジュールが多様なものとなることについて同意すること（たとえば、すべてのスピーカーが 1 つの性別、単一の文化、または年齢層となっていないこと、など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An increase of 33% from 2021</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T091032Z" creationid="tani" creationdate="20230116T091032Z">
+        <seg>2021 年から 33%  増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An individual with incredible technical skills and notable technical achievements in one or multiple CNCF projects</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T225203Z" creationid="tani" creationdate="20230104T113022Z">
+        <seg>一つもしくはそれ以上の CNCF プロジェクトにおいて、驚くべき技術スキルを持ち著しい技術的成果を上げた個人に対して授与されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you a maintainer on a graduated project?</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T222636Z" creationid="tani" creationdate="20230104T112822Z">
+        <seg>あなたは Graduated プロジェクトのメンテナーですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a result, this year:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T010801Z" creationid="tani" creationdate="20230104T222802Z">
+        <seg>その結果、今年以下のような取り組みが行われました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a result, we can get insight into platforms that will likely be successful:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120302Z" creationid="tani" creationdate="20230104T105353Z">
+        <seg>その結果として、成功に向かうであろうプラットフォームについての洞察を得ることができるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As teams adopt cloud native strategies, it's clear that there is no "one size fits all" solution to the challenges organizations face.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T020047Z" creationid="tani" creationdate="20230104T111742Z">
+        <seg>さまざまなチームがクラウド ネイティブの戦略を採用するにつれてわかってくるのは、組織が直面する課題に対する「万能の」ソリューションというものはない、ということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the heart of CNCF is our welcoming community of doers, working together to make cloud native ubiquitous.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T060013Z" creationid="tani" creationdate="20230104T104723Z">
+        <seg>CNCF の中心には、クラウド ネイティブをユビキタスにするべく、 Doer たちが協働する、懐の広いコミュニティがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the same time 26 endpoints have been identified as being ineligible for conformance testing and move to the ineligible endpoints list.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181721Z" creationid="tani" creationdate="20230116T120217Z">
+        <seg>これと同時に、適合性テストで 26 のエンドポイントが不適格であると認識され、不適格エンドポイント リストに移りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the same time, CNCF continued to double down on digital, offering virtual access to all our major events to provide opportunities for collaboration, learning, and networking from every corner of the globe.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081015Z" creationid="tani" creationdate="20230104T104758Z">
+        <seg>それと同時に、CNCF は引き続きデジタル化を強化し、世界中のあらゆる場所からのコラボレーション、学習、ネットワーキングの機会を提供するべく、すべての主要イベントへの仮想のアクセスを可能にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the start of 2022 there were 85 untested endpoints remaining.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T204001Z" creationid="tani" creationdate="20230104T112658Z">
+        <seg>2022 年の初めの段階でテスト未実施のエンドポイントが 85 残っていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attendee Demographics</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T013924Z" creationid="tani" creationdate="20230104T111958Z">
+        <seg>参加者のデモグラフィック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attendees at KubeCon + CloudNativeCon North America 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T061022Z" creationid="tani" creationdate="20230104T104727Z">
+        <seg>KubeCon + CloudNativeCon North America 2022 の参加者たち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Audience at KubeCon + CloudNativeCon North America 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230113T013746Z" creationid="tani" creationdate="20230104T111647Z">
+        <seg>KubeCon + CloudNativeCon North America 2022 参加の聴衆のみなさん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>August's topic was “How to Curate a Diverse Lineup.” This meeting featured resources and recommendations for organizers on how to build and recruit diversity within their schedules.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182518Z" creationid="tani" creationdate="20230104T111912Z">
+        <seg>8 月のテーマは「どのようにして多様なラインナップをキュレーションするか？」でした。このミーティングでは、主催者向けに、限られたスケジュールの中でどう多様性を築き、取り込んでいくか、必要となるリソースや推奨事項について取り上げました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Become a CNCF Member</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230113T013412Z" creationid="tani" creationdate="20230104T111629Z">
+        <seg>CNCF メンバーになる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Become a CNCFMember</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T054012Z" creationid="tani" creationdate="20230104T111626Z">
+        <seg>CNCF メンバーになる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boeing joined us as a platinum member - the first aerospace organization to join CNCF.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T013453Z" creationid="tani" creationdate="20230104T111944Z">
+        <seg>Boeing（ボーイング）社がプラチナメンバーとして参加しました。CNCF でははじめての航空宇宙業界からの参加です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both films succeed in giving a voice and face to the forward-looking engineers who tackled adversity and technical challenges in their quest to change the way we work and live today.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T223820Z" creationid="tani" creationdate="20230104T112845Z">
+        <seg>どちらの映画も、私たちの働き方や今日の生活を変えようと逆境や技術的課題に立ち向かった先見の明のあるエンジニアたちの生の声や顔を捉えることに成功しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By the end of 2022 only 10 endpoints (2.5%) remain untested.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120255Z" creationid="tani" creationdate="20230116T120255Z">
+        <seg>2022 年末までの段階でテストされていない1エンドポイントは 10（2.5%） となりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF Annual Report 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111254Z" creationid="tani" creationdate="20230111T111254Z">
+        <seg>CNCF アニュアルレポート 2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF Annual Report 2022 - Building for the road ahead</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T103255Z" creationid="tani" creationdate="20230111T112850Z">
+        <seg>CNCF Aアニュアルレポート2022 〜 道のむこうへ 築いていく 〜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF Annual Report 2022 | Cloud Native Computing Foundation</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111220Z" creationid="tani" creationdate="20230111T111220Z">
+        <seg>CNCF アニュアルレポート 2022 | Cloud Native Computing Foundation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF Glossary</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T231119Z" creationid="tani" creationdate="20230104T110149Z">
+        <seg>CNCF Glossary（用語集）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF Meetups become Community Groups</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121120Z" creationid="tani" creationdate="20230116T121120Z">
+        <seg>CNCF MeetupがCommunity Groupに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF Membership Growth</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113251Z" creationid="tani" creationdate="20230104T104521Z">
+        <seg>CNCF メンバシップの増加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF PROJECTS ACCEPTED</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223605Z" creationid="tani" creationdate="20230104T112724Z">
+        <seg>受け入れられたCNCFプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF Project Velocity</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T115622Z" creationid="tani" creationdate="20230104T112331Z">
+        <seg>CNCF プロジェクトの速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF Project Velocity chart</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120914Z" creationid="tani" creationdate="20230104T105444Z">
+        <seg>CNCF プロジェクトの速度チャート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF conducted a number of open source security audits throughout 2022, in strategic partnership with the Open Source Technology Improvement Fund (OSTIF).</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115253Z" creationid="tani" creationdate="20230116T115253Z">
+        <seg>CNCF は、Open Source Technology Improvement Fund （OSTIF） との戦略的パートナーシップにより、2022 年を通じて多数のオープンソース セキュリティ監査を実施しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF continues to support the development of this incredible cloud native community while also striving to ensure that everyone who participates feels welcome regardless of gender, gender identity, sexual orientation, disability, race, ethnicity, age, religion, or economic status.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181851Z" creationid="tani" creationdate="20230104T112905Z">
+        <seg>CNCF は、この驚異的なクラウドネイティブコミュニティの発展を引き続き支援するとともに、参加するみなさんすべてが、性別、ジェンダーアイデンティティ、性的指向、障がい、人種、民族、年齢、宗教、経済的地位にかかわらず、受け入れられていると感じられるように努めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF has become an embodiment of the spirit of open source, the spirit of freedom and choice, and at the same time has become synonymous with high quality cloud software.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175214Z" creationid="tani" creationdate="20230116T054358Z">
+        <seg>CNCF は、オープンソースの精神、自由と選択可能（Freedom and Choice）の精神を具現化し、同時に高品質なクラウド ソフトウェアの同義語にもなりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF is an open source software foundation dedicated to making cloud native computing ubiquitous.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180125Z" creationid="tani" creationdate="20230104T104441Z">
+        <seg>CNCF は、クラウドネイティブ コンピューティングをユビキタスにすることを目的とした、オープン ソースソフトウェアのファンデーション（財団）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF proudly supported more than 100 individuals through various mentoring and internship opportunities in 2022, including the LFX mentorship platform, Google Summer of Code (GSoC), Google Summer of Docs (GSoD) program, and Outreachy.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182349Z" creationid="tani" creationdate="20230116T121431Z">
+        <seg>CNCF は、さまざまなメンタリング、インターンシップの機会を通じた支援をしています。手前味噌ではありますが、LFX メンターシップ プラットフォーム、 Google Summer of Code (GSoC)、Google Summer of Docs (GSoD) プログラム、Outreachy など、さまざまなメンタリングやインターンシップの機会を通じて、2022 年には 100 人以上の個人に支援を提供することができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF strengthened our commitment to growing the cloud native ecosystem in 2022 - expanding our globally recognized certifications, boosting employment opportunities and helping more folks to upskill their practical application of cloud native technologies.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180157Z" creationid="tani" creationdate="20230104T112218Z">
+        <seg>CNCF は、2022 年にクラウドネイティブ エコシステムを成長させるというコミットメントを強化しました。世界的に認められた認定資格を広め、雇用機会を増やし、より多くの人々がクラウド ネイティブ テクノロジーの実践的適用ができるスキルの向上を支援します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF was proud to acknowledge the amazing efforts of five individuals for their outstanding contributions in 2022:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182316Z" creationid="tani" creationdate="20230104T113100Z">
+        <seg>CNCF は、2022 年際立ったコントリビューションを行った5人の、その素晴らしい取り組みに対し感謝の意を伝えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF worked closely in partnership with individual contributors and community groups throughout 2022, developing programs to navigate and manage the fast-growing ecosystem - rising to meet the growing global demand for cloud native technologies.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182236Z" creationid="tani" creationdate="20230104T113142Z">
+        <seg>CNCF は 2022 年を通じ、急速に成長するエコシステム ― クラウドネイティブ テクノロジーに対する世界的需要の増大に対応するために大きくなってきている ― をナビゲートし運営するためのプログラムを開発をしながら、個人のコントリビューターやコミュニティグループとの連携を密にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF's Governance Leadership, comprising the Governing Board and Technical Oversight Committee, is 20% women and 80% men.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233648Z" creationid="tani" creationdate="20230104T110248Z">
+        <seg>Governing Board と Technical Oversight Committee で構成されるCNCFのガバナンス リーダーシップについては女性20%、男性80%となっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF's footprint in the Telecom domain increased throughout 2022.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182302Z" creationid="tani" creationdate="20230104T112633Z">
+        <seg>2022 年はテレコム 業界でCNCF のフットプリントが増加した年となりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF's revenue is derived from four primary fundraising sources, including membership, event sponsorship, event registration, and training.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233906Z" creationid="tani" creationdate="20230104T110306Z">
+        <seg>CNCFの収益は、メンバーシップ、イベントおよびスポンサーシップ、イベント登録、トレーニングの4つを主として資金調達をしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNCF's training and certification program continued to grow.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223153Z" creationid="tani" creationdate="20230104T105255Z">
+        <seg>CNCF のトレーニングおよび認定プログラムは成長を続けました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO Summit</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T015306Z" creationid="tani" creationdate="20230104T104632Z">
+        <seg>CTO サミット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO Summit Report - KubeCon + CloudNativeCon Europe 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222549Z" creationid="tani" creationdate="20230104T104652Z">
+        <seg>CTO サミット レポート - KubeCon + CloudNativeCon ヨーロッパ 2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Case Studies</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113537Z" creationid="tani" creationdate="20230104T113537Z">
+        <seg>ケーススタディ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chart of CNCF staff - showing 61% women, 39% men</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233734Z" creationid="tani" creationdate="20230104T110253Z">
+        <seg>エグゼクティブ リーダーシップのチャート - 61% が女性、39% の男性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chart of Executive Leadership - showing 62.5% women, 37.5% men</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233836Z" creationid="tani" creationdate="20230104T110302Z">
+        <seg>エグゼクティブ リーダーシップのチャート - 62.5% が女性、37.5% が男性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chart showing CNCF Membership growth with a rising trend line.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113302Z" creationid="tani" creationdate="20230104T104524Z">
+        <seg>CNCF メンバーシップの増加傾向のチャート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chart showing projects accepted by year - 2022 had 35 new projects accepted</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T205151Z" creationid="tani" creationdate="20230104T105712Z">
+        <seg>年ごとの Accept されたプロジェクトのチャート - 2022 年には 35 の新たなプロジェクトが受け入れられました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chart showing upward trend of Contributors growth</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T111958Z" creationid="tani" creationdate="20230104T104448Z">
+        <seg>コントリビューターの増加傾向チャート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chart showing upward trend of Members, End User and Project growth</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112052Z" creationid="tani" creationdate="20230104T104455Z">
+        <seg>メンバー、エンドユーザー、プロジェクトの増加傾向チャート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check out our calendar for community events near you and don't forget to register for KubeCon + CloudNativeCon Europe in Amsterdam, April 2023.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121806Z" creationid="tani" creationdate="20230116T121806Z">
+        <seg>お近くのコミュニティ イベントのカレンダー をご確認ください。そして2023 年 4 月にアムステルダムで開催される KubeCon + CloudNativeCon Europe に登録することもお忘れなく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chop Wood &amp; Carry Water awards</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T225402Z" creationid="tani" creationdate="20230104T113054Z">
+        <seg>Chop Wood &amp; Carry Water アワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cloud Native Computing Foundation on LinkedIn</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224601Z" creationid="tani" creationdate="20230104T113627Z">
+        <seg>LinkedIn の Cloud Native Computing Foundation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cloud Native Computing Foundation on Twitter</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224552Z" creationid="tani" creationdate="20230104T110654Z">
+        <seg>Twitter の Cloud Native Computing Foundation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cloud native has crossed the chasm and more organizations than ever before are becoming software companies.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222051Z" creationid="tani" creationdate="20230104T111402Z">
+        <seg>クラウド ネイティブはキャズムを越え、これまで以上に多くの組織がソフトウェア企業になりつつあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cloud native training courses from LF</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180202Z" creationid="tani" creationdate="20230104T105300Z">
+        <seg>LF のクラウドネイティブ トレーニング コース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Code of Conduct Process Improvements</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T112010Z" creationid="tani" creationdate="20230116T112010Z">
+        <seg>Code of Conduct （行動規範）のプロセス改善</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Community &amp; Diversity Engagement</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120613Z" creationid="tani" creationdate="20230116T120613Z">
+        <seg>コミュニティと多様性へのエンゲージメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Community Awards</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T224953Z" creationid="tani" creationdate="20230104T113003Z">
+        <seg>コミュニティアワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Community Events</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113324Z" creationid="tani" creationdate="20230104T113324Z">
+        <seg>コミュニティイベント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Community Groups 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182319Z" creationid="tani" creationdate="20230104T110113Z">
+        <seg>2022 年の Community Groups </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Community Mentoring</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T231655Z" creationid="tani" creationdate="20230104T110206Z">
+        <seg>コミュニティ メンタリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Content</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222842Z" creationid="tani" creationdate="20230104T104945Z">
+        <seg>コンテンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contribute</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T231649Z" creationid="tani" creationdate="20230104T110204Z">
+        <seg>コントリビュートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contribute to the Glossary</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T231634Z" creationid="tani" creationdate="20230104T110202Z">
+        <seg>Glossary へコントリビュートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contributor Growth</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T110009Z" creationid="tani" creationdate="20230104T104446Z">
+        <seg>コントリビューターの伸び</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123014Z" creationid="tani" creationdate="20230104T104450Z">
+        <seg>コントリビューター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cover of the KubeCon + CloudNativeCon Europe 2022 Transparency Report</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222951Z" creationid="tani" creationdate="20230104T105053Z">
+        <seg>KubeCon + CloudNativeCon Europe 2022 透明性レポートの表紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cover of the KubeCon + CloudNativeCon North America 2022 Transparency Report</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223126Z" creationid="tani" creationdate="20230104T105229Z">
+        <seg>KubeCon + CloudNativeCon North America 2022 透明性レポートの表紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Despite the collective challenges we've faced, and continue to tackle, the cloud native ecosystem has soared.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180115Z" creationid="tani" creationdate="20230104T111355Z">
+        <seg>私たちには直面し、取り組み続けている共通的な課題はありますが、一方でクラウドネイティブ エコシステムは躍進しつづけています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diversity, Equity, and Inclusivity</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181859Z" creationid="tani" creationdate="20230104T112901Z">
+        <seg>多様性、公平性、包摂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you know somebody doing incredible things in the cloud native ecosystem? Nominate them for the Humans of Cloud Native</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175918Z" creationid="tani" creationdate="20230116T090754Z">
+        <seg>「クラウド ネイティブな」エコシステムでスゴいことやってる人、ご存じですか?Humans of Cloud Native にノミネートしましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to help others better understand the concepts of cloud native computing?</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T222658Z" creationid="tani" creationdate="20230104T112825Z">
+        <seg>多くの人がクラウドネイティブ コンピューティングのコンセプトを理解できるよう、その手助けをしてみませんか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Donate a character</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T222742Z" creationid="tani" creationdate="20230104T105827Z">
+        <seg>キャラクターを寄贈する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Donate a character to the Phippy and Friends family.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123614Z" creationid="tani" creationdate="20230104T112829Z">
+        <seg>「Phippy と仲間たち」ファミリーにキャラクターを寄贈しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ecosystem</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111627Z" creationid="tani" creationdate="20230111T111627Z">
+        <seg>エコシステム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>End User Community</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032846Z" creationid="tani" creationdate="20220124T101247Z">
+        <seg>エンドユーザー コミュニティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>End Users</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112104Z" creationid="tani" creationdate="20230104T111541Z">
+        <seg>エンドユーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>End Users within the Cloud Native Computing Foundation (CNCF) are member companies that use cloud native technologies internally, do not sell any cloud native services externally, and aren't vendors, consultancies, training partners, or telecommunications companies.Individuals within end user companies are passionate about solving problems using cloud native architectures and providing teams with self-service solutions which create a more inclusive, iterative process.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180136Z" creationid="tani" creationdate="20230116T054128Z">
+        <seg>Cloud Native Computing Foundation （CNCF） のエンドユーザー企業とは、クラウドネイティブ テクノロジを社内で活用していて、クラウド ネイティブ サービスを外部向けに販売していないメンバー企業のことです。ベンダー、コンサルタント企業、トレーニング パートナー、またはテレコムキャリアといった企業はこれにあたりません。エンドユーザー企業では、一人ひとりがクラウド ネイティブ アーキテクチャを駆使し問題を解決すること、より包括的で繰り返し活用できるプロセスを生み出す、セルフサービス型のソリューションをチームに提供することに情熱を注いでいるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Endpoint testing results</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T105648Z" creationid="tani" creationdate="20230104T105648Z">
+        <seg>エンドポイントのテスト結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Endpoint testing results chart</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T204135Z" creationid="tani" creationdate="20230104T105650Z">
+        <seg>エンドポイントのテスト結果チャート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equally important, a neutral home for a project and community fosters this type of positive-sum thinking and drives the growth and diversity that we believe are core elements of a successful open source project.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234547Z" creationid="tani" creationdate="20230104T113311Z">
+        <seg>そして同様に重要なことは、プロジェクトとコミュニティに対する「中立な家（Neutral home）」が、この種のポジティブサム思考を育て、オープンソースプロジェクトが成功するためのコアだと私たちが信じる成長と多様性を牽引していく、ということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Events</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T230040Z" creationid="tani" creationdate="20220124T101401Z">
+        <seg>のイベント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Events We’ll Be At</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113533Z" creationid="tani" creationdate="20230104T113533Z">
+        <seg>私たちが参加するイベント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every time we have requirements to build software for our Cloud Infrastructure, the first thing we do is go to the CNCF landscape and evaluate the choices available.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175511Z" creationid="tani" creationdate="20230116T054504Z">
+        <seg>クラウド インフラストラクチャ用のソフトウェアを構築する必要に迫られるたびに 私たちが最初に行うのは、「CNCF ランドスケープ（CNCF landscape）」にアクセスし、利用可能な選択肢を評価することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Executive Leadership</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233809Z" creationid="tani" creationdate="20230104T110259Z">
+        <seg>エグゼクティブ リーダーシップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expenditures</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110315Z" creationid="tani" creationdate="20230104T110315Z">
+        <seg>支出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find out how we use cookies and how to change your settings.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T113522Z" creationid="tani" creationdate="20230111T113522Z">
+        <seg>クッキー情報の使い方、設定の変更方法はこちらで確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a veteran cloud blogger, this conference is a peek into the future of distributed development.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180052Z" creationid="tani" creationdate="20230104T111837Z">
+        <seg>ベテランのクラウド ブロガーにとってこのカンファレンスは、分散型開発の未来が見れる、のぞき窓のような場なのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Four Funding Sources</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233919Z" creationid="tani" creationdate="20230104T113239Z">
+        <seg>4つの資金調達先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From a humble PHP app, Phippy has gone on to help thousands of folx take their first steps to understanding cloud native computing - from containerisation to automation.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T210013Z" creationid="tani" creationdate="20230104T105803Z">
+        <seg>ささやかなPHPアプリである Phippy は、コンテナ化から自動化にいたる、クラウドネイティブコンピューティングを理解するために何千もの人たちが踏み出す最初の一歩を助けてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Funding</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233845Z" creationid="tani" creationdate="20230104T110304Z">
+        <seg>ファンディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Involved</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032857Z" creationid="tani" creationdate="20220124T101258Z">
+        <seg>参加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get involved</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110239Z" creationid="tani" creationdate="20230104T110239Z">
+        <seg>参加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get involved with mentoring</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224135Z" creationid="tani" creationdate="20230104T110237Z">
+        <seg>メンタリングに参加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Governance Leadership</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233814Z" creationid="tani" creationdate="20230104T110255Z">
+        <seg>ガバナンス リーダーシップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Governance Leadership chart showing 20% women, 80% men</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233758Z" creationid="tani" creationdate="20230104T110257Z">
+        <seg>女性 20%、男性 80% を示すガバナンス リーダーシップのチャート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Graduations</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T035353Z" creationid="tani" creationdate="20220124T101355Z">
+        <seg>Graduated プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Have a look at the full details in our transparency report</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T014815Z" creationid="tani" creationdate="20230104T105047Z">
+        <seg>詳細は透明性レポートをご覧ください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Having seen what KubeCon has to offer, I'm sorry I missed every previous KubeCon since (they began in) 2015.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T075508Z" creationid="tani" creationdate="20230104T104745Z">
+        <seg>KubeCon で提供されているものを見たら、2015 年 の始まりからの過去の KubeCon すべてを見逃してしまっていたことが残念でなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlights</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T105628Z" creationid="tani" creationdate="20230104T105628Z">
+        <seg>ハイライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Humans Of Cloud Native</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175816Z" creationid="tani" creationdate="20230104T104719Z">
+        <seg>「クラウド ネイティブな」人たち（Humans of Cloud Native）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Humans of Cloud Native</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T235017Z" creationid="tani" creationdate="20230104T110603Z">
+        <seg>「クラウド ネイティブ」な人たち（Humans of Cloud Native）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I hope you enjoy reading about our milestones and reflecting back on the impressive progress we've achieved together this year.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175104Z" creationid="tani" creationdate="20230104T111417Z">
+        <seg>私たちが歩んできたマイルストーン、今年一緒に達成してきた素晴らしい前進について本レポートを読みながら振り返っていただければと思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I want to personally thank each and every one of you, all 178,000, for your commitment and contributions, no matter how big or small, we're on this journey together.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T225722Z" creationid="tani" creationdate="20230104T104200Z">
+        <seg>17 万 8,000 人を超えるコミットメントとコントリビューションに一個人としてみなさんに感謝します。それらのインパクトが大きくても小さくても、そこが問題ではなく私たちがこの旅路（Journey）を共に歩んでいる、ということに意味があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Importantly, we continued to sharpen focus on our DEI initiatives, ensuring that the ecosystem is a welcoming place where everybody can thrive.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181838Z" creationid="tani" creationdate="20230104T112858Z">
+        <seg>このエコシステムが誰でも成長できるような、人を受け入れ親しみやすい場所になるように DEI イニシアティブへ焦点を当てつづけていることは重要な意味をもちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Importantly, we're doubling down on accessibility - following the Web Content Accessibility Guidelines (WCAG) 2.1 and aiming for Level AA accessibility on CNCF.io.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T090458Z" creationid="tani" creationdate="20230116T090458Z">
+        <seg>重要なことは、私たちがアクセシビリティを強化している ―  Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Improvements At A Glance</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115452Z" creationid="tani" creationdate="20230104T112602Z">
+        <seg>改善ポイントの概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In 2022, the CNCF TOC accepted 35 new projects:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120407Z" creationid="tani" creationdate="20230116T120407Z">
+        <seg>2022 年、CNCF TOC は 35 の新しいプロジェクトを Accept しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In 2022, these training courses and exams received considerable interest:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T023034Z" creationid="tani" creationdate="20230104T105257Z">
+        <seg>2022 年、これらのトレーニング コースと認定試験は大きな関心を集めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In 2022, two projects donated characters</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182306Z" creationid="tani" creationdate="20230104T112813Z">
+        <seg>2022 年は 2 つのプロジェクトがキャラクターを寄贈してくれました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In January 2022, The Origins of Kubernetes debuted on YouTube.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120543Z" creationid="tani" creationdate="20230116T120543Z">
+        <seg>2022 年 1 月、「The Origins of Kubernetes （Kubernetes の起源）」として YouTube デビューしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In July, we started hosting a one-hour monthly organizer meeting with topics to help guide organizers during their planning process.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182514Z" creationid="tani" creationdate="20230104T104852Z">
+        <seg>私たちは7 月、計画段階での主催者へのガイドとなるトピックを含む、毎月 1 時間のオーガナイザーミーティングをはじめました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In May we launched the redesigned and rebuilt CNCF.io.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182507Z" creationid="tani" creationdate="20230116T054644Z">
+        <seg>5 月、デザイン新たに再構築された、CNCF.io がローンチされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In May, the Cloud Native Network Function (CNF) Certification Program (beta) was announced to help Communication Service Providers (CSPs) validate how well their vendors' products follow cloud native principles, and to advise vendors on following cloud native best practices.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115723Z" creationid="tani" creationdate="20230116T115723Z">
+        <seg>5 月に、クラウドネイティブ ネットワークファンクション認定プログラム（Cloud Native Network Function (CNF) Certification Program） のベータ版  が発表されました。これは、通信サービス プロバイダー （CSP） たちが彼らが使うベンダー製品がクラウドネイティブの原則にどの程度準拠しているかを検証し、クラウド ネイティブのベストプラクティスに沿った方でベンダーにアドバイスするのを支援するプログラムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In fact, we had a lot of firsts in Valencia.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T013058Z" creationid="tani" creationdate="20230104T111941Z">
+        <seg>実際バレンシアでは、いままで経験したことのない初めてのことがたくさんありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In fact, we welcomed more than 220 new members to CNCF this year.Today, CNCF has over 850 participating organizations, including the world's largest public and private cloud companies, along with the world's most innovative software companies and end user organizations.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T053605Z" creationid="tani" creationdate="20230116T053605Z">
+        <seg>その証左としてこの年 220 を越える新メンバーたちを CNCF に迎え入れました。現在、CNCF には、世界最大のパブリックおよびプライベート クラウドの企業、世界最高レベルのイノベーティブなソフトウェア企業およびエンドユーザー組織を含めた 850 を超える組織が参加しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In response to the cloud native community's evolving needs in different regions, CNCF strengthened the Kubernetes Community Days (KCD) program this year.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180149Z" creationid="tani" creationdate="20230116T090901Z">
+        <seg>地域ごとに進化するクラウドネイティブ コミュニティのニーズに応えて、今年CNCF は Kubernetes Community Days （KCD）プログラムを強化しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In-person</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T014714Z" creationid="tani" creationdate="20230104T112041Z">
+        <seg>対面参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Incubating</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224417Z" creationid="tani" creationdate="20230104T113448Z">
+        <seg>孵卵中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Incubation Level</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T205634Z" creationid="tani" creationdate="20230104T112752Z">
+        <seg>Incubation レベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internally, we employ 41 people from various backgrounds and locations; 61% women, 39% men.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121629Z" creationid="tani" creationdate="20230116T121629Z">
+        <seg>内部では、さまざまなバックグラウンド、ロケーションから41人を雇用しています。61%が女性で39%が男性です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Introducing: Documentaries</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120454Z" creationid="tani" creationdate="20230116T120454Z">
+        <seg>ドキュメンタリーの紹介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investment from these leading organizations signifies a strong dedication to the advancement and sustainability of cloud native computing for years to come.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113023Z" creationid="tani" creationdate="20230104T111559Z">
+        <seg>こういった先進的な組織からの投資は、むこう数年のクラウドネイティブ コンピューティングの進展や持続可能性に対する強力な献身を意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also features improved UX and navigation, thanks to the dynamic mega menu and simplified navigation throughout.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175707Z" creationid="tani" creationdate="20230104T104710Z">
+        <seg>また、ダイナミックなメガ メニューと簡素化されたナビゲーションのおかげで、UX やナビゲーションが改良されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It has become the singular place where meetups, online programs, project office hours, and community events are run.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T225906Z" creationid="tani" creationdate="20230104T113129Z">
+        <seg>新たなプラットフォームは、Meetup、オンラインプログラム、プロジェクトによる「Office hours」、コミュニティ イベントなどが行われる唯一の場となっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides additional areas to share CNCF and End User content, events, news, and blog articles.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175619Z" creationid="tani" creationdate="20230104T111816Z">
+        <seg>さらに共有エリアが追加され、 CNCF やエンドユーザー関連のコンテンツ、イベント、ニュース、ブログ記事を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's been a year to remember</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T045615Z" creationid="tani" creationdate="20230116T045615Z">
+        <seg>記憶に残る一年 となりました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its goal is to explain cloud native concepts in clear and simple language without requiring any previous technical knowledge.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T231220Z" creationid="tani" creationdate="20230104T110153Z">
+        <seg>その目標は、事前の技術知識を必要とせずに、クラウド ネイティブの概念を明確で簡単な言葉で説明することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Join The Phippy &amp; Friends Family!</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T222617Z" creationid="tani" creationdate="20230104T105816Z">
+        <seg>「Phippy と仲間たち」ファミリーに参加しましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Join our amazing set of humans!</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T061924Z" creationid="tani" creationdate="20230104T104730Z">
+        <seg>「クラウドネイティブ」な人たちがいる集まりに参加しよう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Joined at the Incubation level or moved from Sandbox to Incubation.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T205729Z" creationid="tani" creationdate="20230104T112755Z">
+        <seg>インキュベーション レベルで新たに参加、もしくは Sandbox から Incubation に移ってきたもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jump to section:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111637Z" creationid="tani" creationdate="20230111T111637Z">
+        <seg>各セクションへジャンプ：:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>KCD Evolution</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081839Z" creationid="tani" creationdate="20230104T104834Z">
+        <seg>KCD の進化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>KCDs are community-organized events that gather adopters and technologists to learn, collaborate, and network, with a goal of furthering the adoption and improvement of Kubernetes and cloud native technologies around the world.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180151Z" creationid="tani" creationdate="20230104T111853Z">
+        <seg>KCD は、世界中で Kubernetes やクラウドネイティブ テクノロジの採用と改善を促進することを目的とした、採用する側と技術者を集めて学び、コラボレートし、ネットワークを構築する、コミュニティ主催のイベントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>KubeCon + CloudNativeCon Europe</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T112314Z" creationid="tani" creationdate="20230116T112314Z">
+        <seg>KubeCon +   CloudNativeCon Europe 2022 へようこそ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>KubeCon + CloudNativeCon North America marked the first time we'd gathered in such big numbers in the Midwest, and Detroit was a wonderful host city.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T015402Z" creationid="tani" creationdate="20230104T105102Z">
+        <seg>KubeCon + CloudNativeCon North America は中西部としてこれほど多くの人が集まった初めてのイベントとなり、デトロイトは素晴らしい開催都市となりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>KubeCon + CloudNativeCon Valencia was the first time we'd gathered #TeamCloudNative in Europe for three years and the atmosphere felt electric.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T012955Z" creationid="tani" creationdate="20230104T111937Z">
+        <seg>KubeCon + CloudNativeCon Valencia は、ヨーロッパで #TeamCloudNative を集めた3 年ぶりのイベントとなり、刺激的な雰囲気に満ちた場となりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kubernetes API Endpoint Testing</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120021Z" creationid="tani" creationdate="20230116T120021Z">
+        <seg>Kubernetes API エンドポイント テスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Member Movers and Shakers</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230113T013449Z" creationid="tani" creationdate="20230104T111633Z">
+        <seg>立役者となったメンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Member, End User &amp; Project Growth</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112036Z" creationid="tani" creationdate="20230104T104453Z">
+        <seg>メンバー、エンドユーザー、プロジェクトの伸び</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Members</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T104457Z" creationid="tani" creationdate="20230104T104457Z">
+        <seg>メンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Membership</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T111545Z" creationid="tani" creationdate="20230104T111545Z">
+        <seg>メンバーシップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mentoring &amp; Ecosystem Resources</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121237Z" creationid="tani" creationdate="20230116T121237Z">
+        <seg>メンタリングとエコシステムのリソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Momentum</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111721Z" creationid="tani" creationdate="20230111T111533Z">
+        <seg>その勢い（Momentum）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New End User Group</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175627Z" creationid="tani" creationdate="20230104T110140Z">
+        <seg>新たなエンドユーザー グループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Gold Members</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T054407Z" creationid="tani" creationdate="20230104T111636Z">
+        <seg>新たなゴールドメンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Phippy characters, Owlina The Owl, donated by Open Policy Agent and Cappy The Turtle</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T222432Z" creationid="tani" creationdate="20230104T105809Z">
+        <seg>新しい Phippy キャラクター、フクロウの Owlina（Open Policy Agentから寄贈）とカメの Cappy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Platinum Members</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230113T013535Z" creationid="tani" creationdate="20230104T104550Z">
+        <seg>新たなプラチナメンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Photo</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T104417Z" creationid="tani" creationdate="20230104T104417Z">
+        <seg>次の写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nominate</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222636Z" creationid="tani" creationdate="20230104T104739Z">
+        <seg>ノミネート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now in their sixth year, the CNCF Community Awards highlighted the most active ambassador and top contributor across all CNCF projects.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121016Z" creationid="tani" creationdate="20230116T121016Z">
+        <seg>今年で6年目を迎えた  CNCF コミュニティアワード では、すべての CNCF プロジェクトで最も活動的なアンバサダーとトップコントリビューターが選ばれました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of course, none of this would be possible without our truly global, welcoming community of doers - #TeamCloudNative.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T225056Z" creationid="tani" creationdate="20230104T111411Z">
+        <seg>もちろん、これは本当にグローバルで迎え入れてくれる、「Doer」たちののコミュニティである #TeamCloudNative なしでは不可能だったことでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of the attendees 7.084 (38%) were in person, 11,466 (62%) were virtual.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T014217Z" creationid="tani" creationdate="20230104T112007Z">
+        <seg>参加者のうち7,084 人（38%）が対面参加、11,466 人 （62%） がオンライン参加でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often the most impactful lessons come from our peers.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T022108Z" creationid="tani" creationdate="20230104T111757Z">
+        <seg>しばしば、インパクトがある教訓というものは仲間たちから得られるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organizations that sell cloud native technologies built on, or integrated with, CNCF projects are eligible to join as general members.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175334Z" creationid="tani" creationdate="20230104T111622Z">
+        <seg>CNCFのプロジェクト上で構築、もしくはCNCF プロジェクトをインテグレーションしたクラウド ネイティブなテクノロジを販売している組織であれば、一般メンバー（General member）として参加する資格があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organizers will ensure the speaker lineup is diverse in terms of companies represented.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T121832Z" creationid="tani" creationdate="20230104T104847Z">
+        <seg>主催者側は、スピーカーのラインナップとして企業の代表者が（偏らず）多様であることを確実にすること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our increased focus on Code of Conduct highlighted the need to modernize our processes, which had previously been entirely foundation-managed, by including community representation and providing greater transparency.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T011235Z" creationid="tani" creationdate="20230104T111917Z">
+        <seg>Code of Conduct への関心が高まったことで、以前はその全体をファンデーション側で管理していたプロセスを、コミュニティの代表者を含めて透明性を高めることでモダナイズする（今に即した形にする）必要性が浮き彫りになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our organizer terms and conditions in the KCD GitHub repository were updated to include new provisions in addition to the pre-existing requirement of organizers to take the Inclusive Open Source Community Orientation.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T111743Z" creationid="tani" creationdate="20230116T111733Z">
+        <seg>KCD GitHub リポジトリの主催者（オーガナイザー）側の利用規約が更新され、オーガナイザーの既存の要件としての「インクルーシブ オープンソース コミュニティ オリエンテーション」の受講に加え、新たな条項が追加されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phippy and Friends</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224510Z" creationid="tani" creationdate="20230104T113553Z">
+        <seg>フィッピーと仲間たち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phippy and Friends got a 3D makeover</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T222506Z" creationid="tani" creationdate="20230104T105812Z">
+        <seg>Phippy と仲間たちが が 3D に大変身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Photo Highlights</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T230522Z" creationid="tani" creationdate="20230104T104229Z">
+        <seg>ハイライト写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Photo from KubeCon + CloudNativeCon Europe 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222135Z" creationid="tani" creationdate="20230104T104242Z">
+        <seg>KubeCon + CloudNativeCon Europe 2022 の写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Photo from KubeCon + CloudNativeCon North America 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222133Z" creationid="tani" creationdate="20230104T104240Z">
+        <seg>KubeCon + CloudNativeCon North America 2022 の写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play Inside Prometheus</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T223848Z" creationid="tani" creationdate="20230115T223848Z">
+        <seg>Inside Prometheus を再生する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play Kubernetes The Documentary</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223736Z" creationid="tani" creationdate="20230104T105838Z">
+        <seg>Kubernetes The Documentary を再生する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plus, we hosted our first CTO Summit where we discussed how organizations achieve resiliency in multi-cloud strategies.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T112356Z" creationid="tani" creationdate="20230116T112356Z">
+        <seg>加えて最初の CTO サミットを主催し、組織がマルチクラウド戦略レジリエンスを達成できるやり方について議論されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presenters on stage at KubeCon + CloudNativeCon North America 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T020010Z" creationid="tani" creationdate="20230104T112116Z">
+        <seg>KubeCon + CloudNativeCon North America 2022 のステージ上のプレゼンターたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous Photo</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T104415Z" creationid="tani" creationdate="20230104T104415Z">
+        <seg>前の写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Priyanka Sharma</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032828Z" creationid="tani" creationdate="20220124T100723Z">
+        <seg>Priyanka Sharma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project Moves</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T205003Z" creationid="tani" creationdate="20230104T112720Z">
+        <seg>プロジェクトの動き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project Updates &amp; Satisfaction</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T114220Z" creationid="tani" creationdate="20230116T114220Z">
+        <seg>プロジェクト アップデートと満足度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project Velocity Key Takeaways</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120955Z" creationid="tani" creationdate="20230104T105446Z">
+        <seg>プロジェクト速度に関する重要ポイント（Takeaways）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112112Z" creationid="tani" creationdate="20230111T113909Z">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Projects Accepted Over Time</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181308Z" creationid="tani" creationdate="20230104T112324Z">
+        <seg>した1 つ受け入れられたプロジェクトの推移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Projects increase their maturity level by demonstrating to the TOC that they have attained end user and vendor adoption, established a healthy rate of code commits and codebase changes, and attracted committers from multiple organizations.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181729Z" creationid="tani" creationdate="20230116T120428Z">
+        <seg>プロジェクトは、エンドユーザーやベンダーでの採用を達成したり、コードコミットとコードベースの変更における健全といえる割合を確保したり、複数の組織からのコミッターを引き付けたりしたことを TOC に示すことで、その成熟度を高めていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read the CTO Summit report</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222547Z" creationid="tani" creationdate="20230104T104650Z">
+        <seg>CTO サミット レポートを読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read the KubeCon + CloudNativeCon Europe 2022 Transparency Report</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222946Z" creationid="tani" creationdate="20230104T112106Z">
+        <seg>KubeCon + CloudNativeCon Europe 2022 透明性レポートを読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read the KubeCon + CloudNativeCon North America 2022 Transparency Report</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T020340Z" creationid="tani" creationdate="20230104T105224Z">
+        <seg>KubeCon + CloudNativeCon North America 2022 の透明性レポートを読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Register for KubeCon+ CloudNativeCon North America</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224250Z" creationid="tani" creationdate="20230104T113327Z">
+        <seg>KubeCon+ CloudNativeCon North America に登録する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scholarships Offered</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223813Z" creationid="tani" creationdate="20230104T105916Z">
+        <seg>提供される奨学金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scholarships were funded by sponsorships from</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T224919Z" creationid="tani" creationdate="20230104T105929Z">
+        <seg>奨学金は以下のスポンサーからファンドされました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Security</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T121536Z" creationid="tani" creationdate="20230104T105501Z">
+        <seg>セキュリティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See CNCF staff</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233225Z" creationid="tani" creationdate="20230104T110244Z">
+        <seg>CNCFスタッフについて見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See End User Sruvey results</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230113T223052Z" creationid="tani" creationdate="20230104T104610Z">
+        <seg>エンドユーザーサーベイの結果を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See a CNCF overview</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222334Z" creationid="tani" creationdate="20230104T104437Z">
+        <seg>CNCF の概要を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See all Graduated &amp; Incubating Projects</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T105010Z" creationid="tani" creationdate="20230104T104439Z">
+        <seg>すべての Graduated・Incubating プロジェクトを見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See more</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222130Z" creationid="tani" creationdate="20230104T104233Z">
+        <seg>続きを見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Send an email your nomination</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062211Z" creationid="tani" creationdate="20230104T104736Z">
+        <seg>ノミネートをメールで送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Services for CNCF Projects</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110508Z" creationid="tani" creationdate="20230104T110508Z">
+        <seg>CNCFプロジェクト向けサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Seven new translations of the CNCF Glossary were donated this year</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182430Z" creationid="tani" creationdate="20230104T110155Z">
+        <seg>今年、新たに7言語の CNCF Glossary 翻訳版が寄贈されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111925Z" creationid="tani" creationdate="20230111T111925Z">
+        <seg>共有しよう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share by Email</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111848Z" creationid="tani" creationdate="20230111T111848Z">
+        <seg>メールでシェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share on Linkedin</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111856Z" creationid="tani" creationdate="20230111T111856Z">
+        <seg>Linkedinでシェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share on Twitter</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111906Z" creationid="tani" creationdate="20230111T111906Z">
+        <seg>Twitterでシェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share this report</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113338Z" creationid="tani" creationdate="20230104T113338Z">
+        <seg>このレポートを共有する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Showing 16,986 registered attendees.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T020125Z" creationid="tani" creationdate="20230104T112119Z">
+        <seg>登録済みの参加者 16,986 人のうち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Showing 18,550 Registered attendees of which 45.2% were men, 6.5% women, 0.4% non-binary/other, and 47.9% preferred not to answer.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T014126Z" creationid="tani" creationdate="20230104T112004Z">
+        <seg>登録済み参加者18,550 人のうち 45.2% が男性、6.5% が女性、0.4% がノンバイナリー/その他、47.9% が無回答であったことを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Significant progress has been made in 2022 towards the goal of 100% conformance test coverage of the Kubernetes API, managed through APISnoop - a community-driven project spearheaded by long-time CNCF contributor and community leader Hippie Hacker, which tracks the testing and conformance coverage of Kubernetes by analyzing the audit logs created by e2e test runs.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181626Z" creationid="tani" creationdate="20230116T120054Z">
+        <seg>APISnoop によって行われている Kubernetes API の適合テストの  100% カバレッジの目標へ向けて、2022 年に大きな進歩がありました。APISnoop はコミュニティ主導のプロジェクトで e2e テストの実行によって作成された監査ログを分析することにより、テストと適合カバレッジを追跡します。このプロジェクトは長年にわたる CNCF のコントリビューターであり、コミュニティ リーダーの Hippie Hacker が率いています。 Kubernetes の</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SiliconANGLE</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032908Z" creationid="tani" creationdate="20220124T101310Z">
+        <seg>SiliconANGLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since we were founded in 2015, we've pioneered cloud native technologies - hosting and growing some of the world's most successful open source projects including Kubernetes, Prometheus, Envoy, ContainerD, and many others.Today we are a powerhouse for visionary projects and people, hosting 157 projects with over 178,000 contributors representing 189 countries, and there are no signs of this growth slowing down.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T184237Z" creationid="tani" creationdate="20230116T050613Z">
+        <seg>私たちは、2015 年に設立されて以来、クラウドネイティブ 技術を開拓してきました。Kubernetes、Prometheus、Envoy、ContainerD 、その他多くの 世界で最も成功しているオープンソース プロジェクトをホストし、育ててきました。現時点で 189 か国、178,000 人以上のコントリビューターを含む  157 のプロジェクトをホストした発電所（Powerhouse）となっています。そしてこの成長が鈍化する兆しはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some of the crowd at KubeCon + CloudNativeCon North America 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T080124Z" creationid="tani" creationdate="20230104T104754Z">
+        <seg>KubeCon + CloudNativeCon North America 2022 の参加者たち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233657Z" creationid="tani" creationdate="20230115T233657Z">
+        <seg>スタッフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technical Oversight Committee</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032859Z" creationid="tani" creationdate="20220124T101300Z">
+        <seg>テクニカルオーバーサイトコミッティ（TOC）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Telcom Advances</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T123229Z" creationid="tani" creationdate="20230104T112630Z">
+        <seg>テレコムの進歩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thank You</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224241Z" creationid="tani" creationdate="20230104T113314Z">
+        <seg>ありがとうございました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's why, in 2022, CNCF launched the CTO Summit.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T020128Z" creationid="tani" creationdate="20230104T104637Z">
+        <seg>それが CNCF が 2022 年に CTO サミットを立ち上げた理由です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The (KubeCon + CloudNativeCon) hallway track conversations are shifting towards adjusting to the enterprise.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T104114Z" creationid="tani" creationdate="20230104T104426Z">
+        <seg>(KubeCon + CloudNativeCon) 「Hallway track」でされる会話の内容が、エンタープライズ領域の対応する方向へとシフトしてきています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Cloud Native Glossary is a project led by the CNCF Business Value Subcommittee.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121303Z" creationid="tani" creationdate="20230116T121303Z">
+        <seg>Cloud Native Glossary は、CNCF Business Value Subcommittee が主導するプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Technical Oversight Committee doubled down on cloud native security in 2022, and approved the formation of a new Technical Advisory Group, TAG Environmental Sustainability focusing on carbon outputs around cloud native computing.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180206Z" creationid="tani" creationdate="20230116T114629Z">
+        <seg> Technical Oversight Committee（技術監督委員会）は、2022 年にクラウド ネイティブにおけるセキュリティを強化しました。また、クラウドネイティブ コンピューティングに関する炭素排出量に焦点を当てた新たな技術諮問グループ（Technical Advisory Group）となる、「TAG Environmental Sustainability」 を発足を承認しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Incident Resolution Procedures that the committee is operating under were published earlier this year and finalized after a public comment period.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T112213Z" creationid="tani" creationdate="20230116T112213Z">
+        <seg>委員会が運用しているIThe Incident Resolution Procedures （インシデント解決手順） は、今年初めに公開され、パブリック コメント期間を経て最終的なものとなりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The CNCF Transportation User Group's purpose is to function as a focal meeting point for the discussion and advancement of cloud native in transportation and logistics organizations.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T230636Z" creationid="tani" creationdate="20230104T110144Z">
+        <seg>CNCF Transportation User Group の目的は、輸送および物流を担う組織におけるクラウド ネイティブの議論や進化のための中心的ミーティング ポイントとして機能することにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The CNCF community spans the world, across our contributors, members, meetups, and ambassadors.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181820Z" creationid="tani" creationdate="20230104T112852Z">
+        <seg>CNCFのコミュニティは、コントリビューター、メンバー、Meetup やアンバサダーといったさまざまな形で世界中に広がっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The CNCF ecosystem continues to grow across vendor and end user memberships, making CNCF one of the most successful open source foundations ever.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T174757Z" creationid="tani" creationdate="20230104T111551Z">
+        <seg>CNCFのエコシステムは、CNCFをこれまで最も成功したオープンソースの財団の1つにたらしめながらベンダーやエンドユーザーのメンバーシップといった境界を超えた成長を続けています。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The CNCF-CI bot also gives more detailed explanations of requirements when a submission fails and supporting documentation has also been improved.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T204714Z" creationid="tani" creationdate="20230104T112713Z">
+        <seg>CNCF-CI ボットは、提出した要求事項が受け入れらなかった場合、より詳細な説明も提供するようになりサポート ドキュメントも改善されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The CNCF.io website on various websites</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T055103Z" creationid="tani" creationdate="20230104T104716Z">
+        <seg>さまざまな Web サイト上の CNCF.io Web サイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Glossary is a community-driven effort and everyone is welcome to contribute new terms, update current ones, or help translate into different languages.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T231613Z" creationid="tani" creationdate="20230104T110200Z">
+        <seg>この用語集はコミュニティ主導の取り組みですので、新しい用語や既存の用語の更新を提案してくれたり、他言語への翻訳を手伝ってくれたりする方はどなたでも歓迎します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The awards included:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T225040Z" creationid="tani" creationdate="20230104T113010Z">
+        <seg>以下を含めたアワードが授与されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The cloud native ecosystem is getting bigger and better; end users' trust in open source is steering it forward!</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175205Z" creationid="tani" creationdate="20230104T104557Z">
+        <seg>クラウド ネイティブのエコシステムはどんどん大きく、良いものになってきています。オープンソースに対するエンドユーザーの信頼が、それを前進させています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following CNCF projects have completed security audits or associated work</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T122321Z" creationid="tani" creationdate="20230104T112517Z">
+        <seg>以下の CNCF プロジェクトは、セキュリティ監査またそれにかかる作業が完了しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The new CNCF.io</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T022424Z" creationid="tani" creationdate="20230104T104701Z">
+        <seg>新たな CNCF.IO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The new terms are as follows:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T120817Z" creationid="tani" creationdate="20230104T104841Z">
+        <seg>新しい条項は次のとおりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The platform now hosts over 31,500 unique chapter members and we are excited to see this platform continue to grow.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T225958Z" creationid="tani" creationdate="20230104T113132Z">
+        <seg>私たちは、現在31,500人以上のメンバーがいるこのプラットフォームの、今後の継続的成長に熱視線を送っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The primary goals of this Working Group are to have the community administer CNCF mentorship initiatives and, by doing so, to help provide the capacity needed to grow and add new mentorship programs.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T232848Z" creationid="tani" creationdate="20230104T113215Z">
+        <seg>このワーキング グループの主な目標は、CNCF メンターシップ イニシアチブをコミュニティに管理してもらうこと、そうすることで、新たなメンターシップ プログラムの成長したり新たなプログラム開発に必要な能力を供給する支援をすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The site increases focus on representing the community in more effective, vibrant, and interactive ways.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T024106Z" creationid="tani" creationdate="20230104T104705Z">
+        <seg>新たなサイトでは、より効果的で活気に溢れインタラクティブにコミュニティを表現することにフォーカスしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The two part documentary has since garnered a combined 463,000 views and continues to attract viewers from across the world.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T223500Z" creationid="tani" creationdate="20230104T105836Z">
+        <seg>この 2 部構成のドキュメンタリーは、世界中の視聴者を引きつけ続けていて、合わせて 463,000 回の再生回数を獲得しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Their work is ongoing, and anyone in the community is welcome to participate and contribute.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T011718Z" creationid="tani" creationdate="20230104T104909Z">
+        <seg>その取り組みは目下進行中であり、コミュニティの誰にでも参加してコントリビューションする機会があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is no fixed amount of investment, mindshare, or development contribution allocated to specific projects.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T234521Z" creationid="tani" creationdate="20230104T110339Z">
+        <seg>投資、マインドシェア、開発へのコントリビューションの数量について固定的に特定のプロジェクトへ割り当てるということはしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were also some special surprises at KubeCon + CloudNativeCon, including welcoming our Senior Developer Advocate Ihor Dvoretskyi back in-person, who was granted short-term leave from serving in the Ukraine military.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T015957Z" creationid="tani" creationdate="20230104T112112Z">
+        <seg>KubeCon + CloudNativeCon では、ウクライナ軍従事から短期間の休暇で参加した「Senior Developer Advocate」の Ihor Dvoretskyi を歓迎するなど、いくつか特別なサプライズもありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These allow learners to gain credentials on specific topics related to their experience.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T021453Z" creationid="tani" creationdate="20230104T105244Z">
+        <seg>これらにより、学習者は自分の経験に関係している、より具体的なトピックに関するスキル証明資格を取得できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These changes help to reduce the complexity of reviewing and approving Kubernetes conformance submissions.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T204942Z" creationid="tani" creationdate="20230104T112717Z">
+        <seg>これらの変更は、Kubernetes 適合申請をレビュー、 承認する際の複雑さを軽減することに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These micro-credentials are short, topic-specific, and cost effective.The importance of training and certifications, and the regard that CNCF courses are held in, was highlighted this year in China where foreign nations are able to apply for visas for Beijing if they earn a CKA certification.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113722Z" creationid="tani" creationdate="20230116T113722Z">
+        <seg>これらの「マイクロクレデンシャル」はトピック固有で、短時間の試験で、コスト的にも安価です。.トレーニングと認定の重要性、およびCNCFのトレーニングコースが開催されるという話は、今年中国で今年強調されました。外国人はCKA認定を取得する場合、北京のビザを申請できるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These programs are important catalysts for internships to have an impact on future technologies that we all depend on. In August, the TAG Contributor Strategy approved a Mentoring Working Group.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182538Z" creationid="tani" creationdate="20230116T121553Z">
+        <seg>これらのプログラムは、私たちが依存するであろう将来のテクノロジーに対しインターンシップに影響力を与える、重要な触媒なのです。8 月、TAG Contributor Strategy は Mentoring Working Group を承認しました。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This Chatham House-governed summit convenes CTOs from end user enterprises to discuss how organizations can leverage people, processes, and technologies to improve resiliency in cloud native computing.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180140Z" creationid="tani" creationdate="20230104T111746Z">
+        <seg>「チャタム ハウスルール」で執り行われるこのサミットでは、エンドユーザー企業の CTO が招集され組織がクラウドネイティブ コンピューティングのレジリエンスを向上していく上で、人、プロセス、テクノロジーをどう活かせるのか、を議論します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This award recognizes excellence in documentation contributions to CNCF and its projects</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T225254Z" creationid="tani" creationdate="20230104T113039Z">
+        <seg>このアワードは、CNCFやそのプロジェクトに対する卓越した文書化への貢献を称するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes enumerating current practices, identifying gaps, and directing efforts to help improve workflows.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T231105Z" creationid="tani" creationdate="20230104T113152Z">
+        <seg>これには、従来型の慣行をリストアップし、ギャップを明確にしワークフローを改善するための取り組みへと方向づけることが含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is supported by CSPs like Vodafone, Deutsche Telekom and DISH Wireless, and guided by best practices from the Cloud Native Network Function (CNF) Working Group and runs certification tests on the CNF Test Suite.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180231Z" creationid="tani" creationdate="20230116T115756Z">
+        <seg>このプログラムは Vodafone、Deutsche Telekom、DISH Wireless などの CSP によってサポートされており、 クラウドネイティブ ネットワークファンクション (CNF) ワーキンググループのベスト プラクティスによってガイドされ、CNF テスト スイート上で認定テストも行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was reflected at our KubeCon + CloudNativeCon events, where businesses like Mercedes Benz and Boeing headlined keynotes alongside well-known tech brands.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T224635Z" creationid="tani" creationdate="20230104T111407Z">
+        <seg>このことは、KubeCon + CloudNativeCon イベントでも反映されていて、メルセデス ベンツやボーイングといった顔ぶれが有名なテック ブランドたちとともに見出しを飾り、基調講演を行いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This website uses cookies to offer you a better browsing experience</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T113423Z" creationid="tani" creationdate="20230111T113423Z">
+        <seg>本サイトではよりよいブラウザ体験を提供するためにクッキーを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This year CNCF helped launch two documentary films that supported our mission to humanize developers by telling their story of development in this dynamic medium.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T223158Z" creationid="tani" creationdate="20230104T112834Z">
+        <seg>今年、CNCF は 2 本のドキュメンタリー映画の立ち上げを支援しました。このドキュメンタリー映画は、このダイナミックなメディアにおける開発ストーリーを伝えることで、開発者たちの人間味を引き出していくという私たちの使命をサポートするものとなりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This year we launched the Humans of Cloud Native project to tell the stories of amazing individuals and their contributions that make team cloud native such a vibrant, exciting and diverse space.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180145Z" creationid="tani" creationdate="20230116T090615Z">
+        <seg>今年、私たちはヒューマンズ オブ クラウドネイティブ （Humans of Cloud Native） プロジェクトを立ち上げ、ここでチーム クラウド ネイティブを活気溢れ、刺激的で多様な空間にしてくれる素晴らしい人たちや、そのコントリビューションの物語を伝えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This year we launched the Prometheus Certified Associate (PCA) - a certification that demonstrates and engineers foundational knowledge of observability and skills using Prometheus, the open source monitoring and alerting toolkit.A new set of credentials were also launched this year: SkillCreds.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113557Z" creationid="tani" creationdate="20230116T113557Z">
+        <seg>今年、私たちは Prometheus 認定アソシエイト （PCA:Prometheus Certified Associate） を立ち上げしました。これは、エンジニアのオブザーバビリティとスキルに関する基礎知識、および監視およびアラートのオープンソースのツールキットである Prometheus の活用スキルを証明します。また新しい一連の資格として SkillCred.も始まりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This year we welcomed our community safely back to in-person events.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T080434Z" creationid="tani" creationdate="20230104T104756Z">
+        <seg>今年、私たちのコミュニティは対面式のイベントに安全に戻ることができ、私たちはこのことを歓迎しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Throughout 2022, CNCF underscored our commitment to making cloud native ubiquitous - hosting 20 graduated projects, 35 incubating and 102 sandbox projects, driven by more than 178,000 contributors representing 189 countries.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183527Z" creationid="tani" creationdate="20230116T114607Z">
+        <seg>CNCF は 2022 年を通じ、クラウド ネイティブをユビキタスにするコミットメントを強調しつづけました。CNCFでは 189 か国を代表する 178,000 人を超えるコントリビューターたちによって推進された 20 の Graduated プロジェクト、35 の Incubating プロジェクト、102 の Sandbox プロジェクトをホストしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Throughout the year we rolled out the new design to CNCF subsites, including Contributors, as well as applying WCAG guidelines to all of our sites.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T090546Z" creationid="tani" creationdate="20230116T090546Z">
+        <seg>この1年を通し コントリビューターたち（Contributors）を含む CNCF サブサイトに新デザインを展開し、全サイトに WCAG ガイドラインを適用しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To assure a diverse lineup, you must send a copy of your program to kcd@cncf.io for review and approval before publication.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T111808Z" creationid="tani" creationdate="20230116T111808Z">
+        <seg>多様なラインナップが確保されるよう、プログラムの公開前に kcd@cncf.io に送信しレビューの実施と承認を得ること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To date, we've offered more than 5,000 diversity and need-based scholarships, through the Dan Kohn Scholarship Fund.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120716Z" creationid="tani" creationdate="20230116T120716Z">
+        <seg>今日まで、私たちは Dan Kohn Scholarship Fund を通じ、多様性とニーズベースの奨学金を5,000 以上提供してきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To recognize contributors who spend countless hours completing often mundane tasks, CNCF created the “Chop Wood and Carry Water” awards.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182058Z" creationid="tani" creationdate="20230116T121102Z">
+        <seg>CNCF は、日常のありふれたタスクに数え切れないほどの時間をかけて貢献してくれているコントリビューターたちを称えるべく「木を切り、水を運ぶ（Chop Wood and Carry Water）」アワードを設けています。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Today, Phippy and Friends' mission is to demystify cloud native computing and explain complicated concepts in a compelling, engaging and easy-to-understand manner.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T210033Z" creationid="tani" creationdate="20230104T105805Z">
+        <seg>今日、Phippy とその仲間たちの使命は、クラウドネイティブコンピューティングの神秘を解き明かし、そのわかりづらい概念を、納得感があり、おもしろく、そしてわかりやすい形で説明することにあるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Top Countries In Attendance</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T014410Z" creationid="tani" creationdate="20230104T104958Z">
+        <seg>参加人数上位国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Top Documentarian</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223918Z" creationid="tani" creationdate="20230104T113037Z">
+        <seg>トップ ドキュメンタリアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Top cloud Native Committer</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T225055Z" creationid="tani" creationdate="20230104T113017Z">
+        <seg>トップ Cloud Native コミッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T105000Z" creationid="tani" creationdate="20230104T105000Z">
+        <seg>合計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111736Z" creationid="tani" creationdate="20230111T111546Z">
+        <seg>トレーニング（Training）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training &amp; Certification</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113444Z" creationid="tani" creationdate="20230116T113444Z">
+        <seg>トレーニングと認定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training Courses</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113747Z" creationid="tani" creationdate="20230116T113747Z">
+        <seg>トレーニングコース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032931Z" creationid="tani" creationdate="20220124T101333Z">
+        <seg>Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two of the first SkillCreds include Developing Helm Charts (SC104) and Open Data Formats: YAML (SC101).</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T113633Z" creationid="tani" creationdate="20230116T113633Z">
+        <seg>最初の SkillCred には、Developing Helm Charts (SC104)  と Open Data Formats: YAML (SC101) の2つが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Video Highlights</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T014856Z" creationid="tani" creationdate="20230104T105056Z">
+        <seg>ハイライト ビデオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View Humans of Cloud Native</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175843Z" creationid="tani" creationdate="20230104T104721Z">
+        <seg>「クラウド ネイティブな」人たち（Humans of Cloud Native）を読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View Report</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T022339Z" creationid="tani" creationdate="20230104T104657Z">
+        <seg>レポートを読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the CNCF Flickr photo feed</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T230537Z" creationid="tani" creationdate="20230104T104231Z">
+        <seg>CNCF Flickr のフォトフィードを見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Virtual</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222929Z" creationid="tani" creationdate="20230104T105206Z">
+        <seg>バーチャル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We also announced the inaugural CloudNative SecurityCon, which will launch in 2023, and bring application developers and modern security experts not just propose solutions that incrementally improve what has come before, but to give room to cutting edge projects and advances in modern security approaches.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115406Z" creationid="tani" creationdate="20230116T115406Z">
+        <seg>また、2023 年に開始される初の CloudNative SecurityCon も発表しました。ここではアプリケーション開発者と最新のセキュリティ専門家が、過去のものの漸進的に改善するソリューションを提案するだけでなく、最先端のプロジェクトとモダンなセキュリティ アプローチについての機会を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We also implemented additional measures to help support our KCD communities and organizers to ensure program success:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T120343Z" creationid="tani" creationdate="20230104T104836Z">
+        <seg>また、プログラムの成功に向け、KCD コミュニティや主催者をサポートする、さらなる施策を行いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We also launched an Interim Code of Conduct Committee - composed of both community members and staff-to adjudicate incidents while a more permanent structure is under development by the working group.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180654Z" creationid="tani" creationdate="20230116T112145Z">
+        <seg>また、より恒久的な構造についてワーキング グループによって検討が進む一方で、コミュニティメンバーとスタッフの両方で構成される Interim Code of Conduct Committee（暫定的な行動規範委員会）を立ち上げることでインシデントに対応するようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We anticipate cleaning up the last technical debt by Kubecon + CloudNativeCon Europe 2023.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183628Z" creationid="tani" creationdate="20230116T120309Z">
+        <seg>Kubecon + CloudNativeCon Europe 2023 までには、この最後の技術負債が解消できると期待しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We are seeing all of these big companies that we know and love become software companies right before our eyes.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175148Z" creationid="tani" creationdate="20230104T111521Z">
+        <seg>私たちのよく知り、愛着あるこれらの大企業のすべてがソフトウェア企業になるさまを、目の当たりにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We doubled down on our commitment to #TeamCloudNative in 2022, investing in community-driven initiatives to fuel sustained momentum, expansion, growth and adoption.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182310Z" creationid="tani" creationdate="20230104T112855Z">
+        <seg>2022 年、私たちはコミュニティ主導でのイニシアティブに投資し、持続する勢い、広がり、成長、そして活用にさらに燃料を注いでいくべく、#TeamCloudNativeへのコミットメントを強化しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We encourage KCD organizers to consider and include talks that are non-technical and non-code contributions.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T122155Z" creationid="tani" creationdate="20230104T104849Z">
+        <seg>私たちはKCD の主催者に対し、コードではなく技術的ではないコントリビューションのセッションを考慮し、含めることを推奨しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We had Ford on the show, Mass Mutual, ING and Home Depot.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T050412Z" creationid="tani" creationdate="20230104T104428Z">
+        <seg>このショーには Ford、Mass Mutual、ING や Home Depot といった企業を迎え入れました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We hope you enjoyed reflecting on all the great things we accomplished together in 2022.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T182337Z" creationid="tani" creationdate="20230104T113317Z">
+        <seg>2022 年、みなさんとともに達成したすばらしい成果すべてが、皆さんの脳裏によみがえっていたとしたらうれしくおもいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We hosted Cloud Native Telco Day for the first time, gathering huge players like Deutsche Telekom and Orange who are advancing the industry.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180659Z" creationid="tani" creationdate="20230116T112339Z">
+        <seg>また、通信業界ではCloud Native Telco Day を初めて開催し、業界を進化させている Deutsche Telekom や Orange などの大手が集まりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We launched a Code of Conduct Working Group to develop an updated structure and set of procedures.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T112037Z" creationid="tani" creationdate="20230116T112037Z">
+        <seg>一連の手続きと構造のアップデート版を開発するために  Code of Conduct ワーキンググループを立ち上げました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We launched a number of new initiatives, including Security Slam, in partnership with Sonatype.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180836Z" creationid="tani" creationdate="20230116T113116Z">
+        <seg>Sonatype とのパートナーシップでは Security Slam を含め、多くの新たなイニシアチブを立ち上げました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We offered scholarships to:</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T224539Z" creationid="tani" creationdate="20230104T112918Z">
+        <seg>私たちは以下の人たちに奨学金を提供しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We sponsored 106 students to work on 28 CNCF Projects</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233017Z" creationid="tani" creationdate="20230104T113218Z">
+        <seg>28 の CNCF プロジェクトに取り組めるよう106 人の学生のスポンサーとなりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've started this CTO Summit where end users, like Boeing, Fidelity, Intuit, and many others can come together and have a private conversation about how they are handling technical challenges in their organizations.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T175613Z" creationid="tani" creationdate="20230104T111751Z">
+        <seg>私たちは、Boeing、Fidelity、Intuit などのエンドユーザーが一堂に会し、組織にある技術的な課題にどのように対処しているかについて非公開で対話できる CTO サミットをはじめました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've welcomed new industries, projects, and swelled our community to 7.1 million cloud native developers, surpassing the population of Denmark!</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180119Z" creationid="tani" creationdate="20230104T104151Z">
+        <seg>私たちは新しい産業やプロジェクトを歓迎し、コミュニティをデンマークの人口を超える 710 万人のクラウドネイティブ デベロッパーにまで拡大しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome to KubeCon + CloudNativeCon Europe 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222829Z" creationid="tani" creationdate="20230104T111955Z">
+        <seg>KubeCon + CloudNativeCon Europe 2022 へようこそ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome!</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T021322Z" creationid="tani" creationdate="20230104T104142Z">
+        <seg>ようこそ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When I look back on 2022, it's with a deep sense of pride for what we have overcome and achieved together.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T110002Z" creationid="tani" creationdate="20230104T111358Z">
+        <seg>2022 年を振り返ってみると、私たちが共に乗り越え、達成できたことに深い誇りを感じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When we returned to having in-person events, both the number and severity of Code of Conduct incidents increased.</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T011228Z" creationid="tani" creationdate="20230104T104900Z">
+        <seg>私たちが対面イベントに戻ったとき、Code of Conduct 関連のインシデントについて発生数と深刻度の両方が増加しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who We Are</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T035513Z" creationid="tani" creationdate="20220124T101516Z">
+        <seg>WHO WE ARE（私たちについて）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who we are</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T233157Z" creationid="tani" creationdate="20230104T110242Z">
+        <seg>Who we are（私たちについて）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the largest contributor base, Kubernetes continues to mature</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115040Z" creationid="tani" creationdate="20230116T115040Z">
+        <seg>最大規模のコントリビュータ ベースをとともに、Kubernetes  は成熟し続けている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Women And Gender Non-Conforming Speakers - 2022</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T224352Z" creationid="tani" creationdate="20230104T112909Z">
+        <seg>女性、ジェンダーノンコーフィミングなスピーカーたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your comments and feedback are welcome at info@cncf.io</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T121729Z" creationid="tani" creationdate="20230116T121729Z">
+        <seg>ご意見・ご感想は info@cncf.io までお寄せください（英語となります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>最终用户案例研究</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224459Z" creationid="tani" creationdate="20230104T224459Z">
+        <seg>最終用途户案例研究</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
